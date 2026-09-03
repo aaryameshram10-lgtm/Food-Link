@@ -1,0 +1,5 @@
+Flask==3.0.3
+mysql-connector-python==8.4.0
+scikit-learn==1.7.1
+pandas==2.2.3
+joblib==1.4.2

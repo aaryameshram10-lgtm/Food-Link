@@ -1,0 +1,4001 @@
+quantity,unit,category,food_type,people_fed
+37.3,kg,Other,veg,93
+90.6,plates,Cooked Meal,veg,97
+11.7,kg,Cooked Meal,veg,28
+37.0,plates,Bakery,nonveg,41
+228.8,pieces,Dairy,veg,122
+47.9,liters,Produce,veg,106
+19.6,kg,Produce,veg,36
+27.3,kg,Produce,nonveg,55
+41.6,kg,Packaged Food,nonveg,110
+3.2,liters,Dairy,veg,11
+257.3,pieces,Bakery,veg,111
+114.2,pieces,Packaged Food,veg,104
+184.7,pieces,Bakery,veg,81
+8.8,boxes,Bakery,nonveg,95
+104.3,plates,Other,veg,116
+20.7,kg,Bakery,nonveg,47
+11.4,liters,Cooked Meal,nonveg,17
+8.7,boxes,Other,veg,70
+113.3,plates,Bakery,nonveg,107
+26.0,liters,Produce,veg,56
+8.5,kg,Cooked Meal,veg,23
+19.7,kg,Dairy,nonveg,84
+145.8,plates,Packaged Food,nonveg,204
+38.7,kg,Other,nonveg,88
+22.3,kg,Produce,nonveg,29
+154.8,pieces,Other,veg,84
+50.1,pieces,Cooked Meal,veg,25
+24.9,kg,Dairy,nonveg,78
+75.6,pieces,Cooked Meal,nonveg,35
+41.0,kg,Cooked Meal,nonveg,109
+33.3,liters,Dairy,veg,142
+144.8,plates,Dairy,nonveg,169
+20.6,liters,Dairy,nonveg,72
+8.2,boxes,Dairy,veg,66
+178.6,pieces,Cooked Meal,veg,90
+4.3,kg,Cooked Meal,veg,12
+156.7,pieces,Cooked Meal,veg,76
+12.9,liters,Dairy,nonveg,54
+3.7,boxes,Packaged Food,veg,42
+20.5,boxes,Packaged Food,veg,223
+20.7,kg,Other,veg,45
+27.3,liters,Bakery,veg,66
+9.1,boxes,Bakery,veg,91
+12.3,plates,Packaged Food,veg,23
+46.4,kg,Dairy,veg,193
+26.1,boxes,Packaged Food,veg,295
+1.1,liters,Cooked Meal,nonveg,2
+210.5,pieces,Packaged Food,nonveg,227
+27.4,plates,Other,nonveg,23
+113.5,plates,Dairy,veg,192
+25.6,kg,Cooked Meal,nonveg,61
+4.4,kg,Dairy,veg,17
+6.9,liters,Cooked Meal,nonveg,15
+21.5,kg,Dairy,veg,81
+140.5,plates,Dairy,nonveg,177
+43.6,pieces,Bakery,nonveg,19
+98.3,pieces,Other,nonveg,45
+15.6,plates,Packaged Food,veg,22
+24.2,plates,Bakery,nonveg,26
+51.5,pieces,Bakery,nonveg,20
+202.0,pieces,Dairy,veg,75
+6.7,liters,Cooked Meal,nonveg,12
+44.5,plates,Cooked Meal,veg,38
+79.1,pieces,Bakery,nonveg,26
+41.6,kg,Cooked Meal,nonveg,106
+223.7,pieces,Bakery,veg,92
+4.2,boxes,Dairy,veg,44
+126.0,plates,Bakery,veg,142
+67.3,plates,Dairy,veg,97
+206.2,pieces,Cooked Meal,veg,106
+39.2,kg,Other,nonveg,98
+43.4,liters,Dairy,veg,159
+6.2,boxes,Bakery,veg,74
+8.8,liters,Packaged Food,nonveg,22
+43.7,kg,Other,nonveg,106
+247.1,pieces,Packaged Food,nonveg,212
+33.3,liters,Bakery,veg,61
+194.2,pieces,Cooked Meal,nonveg,94
+141.2,plates,Packaged Food,nonveg,241
+10.5,plates,Bakery,nonveg,14
+22.1,boxes,Dairy,nonveg,171
+45.1,kg,Dairy,nonveg,191
+214.1,pieces,Bakery,veg,109
+22.1,liters,Dairy,nonveg,82
+200.7,pieces,Other,nonveg,109
+101.2,pieces,Dairy,nonveg,55
+61.6,pieces,Other,veg,29
+20.9,liters,Other,nonveg,43
+67.0,pieces,Cooked Meal,nonveg,32
+13.8,boxes,Produce,nonveg,75
+120.1,plates,Bakery,nonveg,158
+26.3,kg,Other,nonveg,58
+18.5,plates,Other,nonveg,18
+8.2,liters,Produce,veg,16
+31.0,liters,Cooked Meal,nonveg,64
+109.2,plates,Other,veg,95
+8.1,boxes,Packaged Food,nonveg,89
+6.1,boxes,Cooked Meal,veg,48
+12.3,plates,Other,nonveg,11
+33.7,liters,Packaged Food,nonveg,115
+142.8,plates,Dairy,nonveg,193
+125.4,plates,Other,nonveg,103
+22.6,boxes,Dairy,veg,185
+189.9,pieces,Bakery,nonveg,71
+21.7,boxes,Produce,veg,154
+8.4,kg,Dairy,veg,37
+4.1,liters,Packaged Food,veg,11
+41.8,kg,Packaged Food,veg,158
+129.2,plates,Packaged Food,veg,196
+227.3,pieces,Cooked Meal,nonveg,92
+75.8,plates,Packaged Food,veg,111
+218.6,pieces,Packaged Food,nonveg,229
+45.4,liters,Packaged Food,veg,116
+26.1,boxes,Cooked Meal,veg,189
+19.6,kg,Bakery,nonveg,55
+79.4,pieces,Packaged Food,nonveg,81
+22.7,boxes,Cooked Meal,veg,232
+38.0,kg,Bakery,veg,125
+31.4,liters,Bakery,veg,63
+72.4,plates,Cooked Meal,veg,82
+183.7,pieces,Produce,veg,65
+175.7,pieces,Bakery,veg,67
+62.5,plates,Produce,nonveg,57
+35.2,liters,Other,veg,84
+120.5,plates,Produce,veg,117
+3.0,boxes,Dairy,nonveg,24
+255.6,pieces,Other,veg,131
+13.6,boxes,Produce,veg,90
+94.3,plates,Other,nonveg,102
+10.3,boxes,Packaged Food,nonveg,102
+44.2,kg,Bakery,nonveg,123
+1.8,boxes,Dairy,nonveg,17
+11.4,liters,Produce,nonveg,22
+157.4,pieces,Dairy,veg,70
+36.3,kg,Bakery,veg,87
+14.0,boxes,Other,nonveg,105
+11.9,kg,Cooked Meal,nonveg,26
+168.3,pieces,Dairy,nonveg,70
+11.2,boxes,Produce,nonveg,65
+16.5,kg,Bakery,veg,51
+32.8,plates,Other,veg,33
+147.2,plates,Dairy,nonveg,159
+111.5,pieces,Bakery,veg,42
+292.4,pieces,Bakery,veg,138
+193.2,pieces,Dairy,veg,97
+73.1,plates,Cooked Meal,nonveg,63
+289.8,pieces,Packaged Food,veg,289
+25.1,kg,Cooked Meal,nonveg,72
+8.3,kg,Dairy,veg,30
+30.7,kg,Bakery,nonveg,81
+23.1,liters,Dairy,nonveg,66
+184.8,pieces,Packaged Food,veg,200
+31.7,kg,Other,veg,79
+8.7,liters,Bakery,veg,18
+9.4,boxes,Packaged Food,nonveg,106
+20.9,boxes,Other,veg,198
+66.6,plates,Produce,veg,56
+3.9,liters,Produce,veg,7
+68.7,plates,Produce,nonveg,57
+134.1,pieces,Packaged Food,nonveg,126
+37.0,kg,Dairy,nonveg,133
+149.9,plates,Bakery,veg,177
+230.1,pieces,Other,veg,123
+299.1,pieces,Packaged Food,veg,338
+14.6,boxes,Packaged Food,veg,160
+21.2,liters,Cooked Meal,nonveg,45
+245.0,pieces,Packaged Food,nonveg,197
+39.2,pieces,Produce,nonveg,10
+100.4,plates,Packaged Food,veg,133
+95.3,plates,Bakery,nonveg,102
+6.9,boxes,Packaged Food,veg,61
+1.8,boxes,Packaged Food,veg,20
+107.9,plates,Other,veg,107
+49.6,kg,Packaged Food,veg,177
+19.8,boxes,Cooked Meal,veg,183
+65.2,plates,Produce,nonveg,74
+14.2,boxes,Packaged Food,veg,179
+130.3,plates,Dairy,veg,180
+28.1,boxes,Produce,nonveg,141
+260.3,pieces,Produce,nonveg,71
+55.0,plates,Packaged Food,nonveg,65
+294.3,pieces,Packaged Food,veg,280
+38.9,plates,Bakery,nonveg,43
+12.2,boxes,Other,nonveg,87
+48.3,liters,Other,nonveg,135
+5.9,kg,Produce,nonveg,13
+21.1,kg,Packaged Food,veg,71
+188.9,pieces,Packaged Food,nonveg,164
+42.8,kg,Packaged Food,nonveg,148
+18.9,boxes,Produce,veg,120
+225.3,pieces,Bakery,veg,86
+9.2,kg,Other,nonveg,22
+16.9,kg,Produce,veg,37
+27.0,liters,Packaged Food,veg,84
+9.6,liters,Dairy,veg,35
+45.7,liters,Other,nonveg,97
+32.3,liters,Bakery,nonveg,49
+26.8,pieces,Packaged Food,veg,28
+97.6,plates,Produce,nonveg,83
+42.8,liters,Produce,nonveg,82
+29.0,liters,Cooked Meal,nonveg,39
+14.4,kg,Produce,nonveg,22
+41.8,kg,Dairy,nonveg,180
+36.8,plates,Bakery,nonveg,36
+103.3,plates,Bakery,nonveg,110
+16.1,kg,Bakery,veg,40
+36.9,kg,Packaged Food,nonveg,129
+6.8,boxes,Other,veg,57
+250.0,pieces,Dairy,nonveg,114
+242.2,pieces,Packaged Food,nonveg,273
+38.0,kg,Packaged Food,veg,137
+3.6,boxes,Other,nonveg,31
+27.3,kg,Packaged Food,nonveg,73
+247.6,pieces,Other,nonveg,120
+24.1,kg,Produce,veg,38
+98.9,plates,Produce,veg,80
+19.8,boxes,Other,nonveg,150
+39.3,pieces,Cooked Meal,nonveg,19
+61.4,plates,Bakery,veg,59
+90.2,plates,Other,nonveg,101
+33.1,liters,Other,nonveg,82
+11.6,kg,Produce,nonveg,18
+5.9,liters,Packaged Food,nonveg,15
+122.5,pieces,Other,veg,53
+5.5,kg,Bakery,nonveg,16
+12.9,kg,Cooked Meal,nonveg,35
+14.9,plates,Bakery,veg,18
+38.9,liters,Bakery,nonveg,66
+43.1,kg,Dairy,nonveg,165
+33.4,liters,Produce,veg,70
+18.6,liters,Cooked Meal,veg,42
+3.6,liters,Cooked Meal,nonveg,6
+22.6,boxes,Other,veg,144
+70.5,plates,Dairy,veg,94
+110.5,plates,Bakery,veg,152
+2.8,boxes,Produce,veg,18
+20.9,boxes,Packaged Food,nonveg,170
+30.8,kg,Cooked Meal,nonveg,72
+31.6,liters,Cooked Meal,nonveg,54
+70.8,plates,Packaged Food,nonveg,88
+24.0,boxes,Dairy,veg,244
+23.1,liters,Dairy,nonveg,95
+25.0,boxes,Bakery,nonveg,194
+20.3,boxes,Produce,nonveg,146
+4.3,liters,Produce,nonveg,8
+169.1,pieces,Cooked Meal,veg,81
+102.2,plates,Dairy,nonveg,97
+30.4,kg,Packaged Food,nonveg,111
+8.6,kg,Produce,veg,13
+21.7,plates,Produce,nonveg,20
+122.0,plates,Produce,veg,144
+93.3,plates,Dairy,veg,89
+58.2,pieces,Other,veg,28
+58.5,pieces,Produce,veg,16
+15.1,plates,Bakery,nonveg,16
+59.5,plates,Cooked Meal,veg,40
+114.2,pieces,Packaged Food,veg,110
+133.1,plates,Dairy,veg,138
+34.0,liters,Bakery,veg,66
+65.1,plates,Packaged Food,nonveg,106
+55.1,plates,Bakery,veg,75
+2.3,boxes,Dairy,nonveg,21
+6.1,plates,Packaged Food,veg,9
+101.8,pieces,Bakery,nonveg,40
+6.1,boxes,Cooked Meal,nonveg,39
+15.5,plates,Dairy,nonveg,21
+1.9,kg,Other,nonveg,5
+21.6,boxes,Dairy,nonveg,159
+124.5,pieces,Packaged Food,veg,133
+3.6,boxes,Dairy,nonveg,29
+29.9,liters,Cooked Meal,nonveg,53
+103.3,pieces,Produce,veg,30
+27.0,kg,Bakery,veg,87
+6.0,liters,Produce,veg,14
+30.5,liters,Produce,veg,62
+22.9,boxes,Bakery,nonveg,174
+26.1,boxes,Dairy,nonveg,206
+19.3,boxes,Cooked Meal,nonveg,135
+56.0,plates,Produce,veg,63
+41.8,kg,Cooked Meal,nonveg,102
+23.7,kg,Cooked Meal,nonveg,44
+10.3,boxes,Cooked Meal,veg,77
+143.9,plates,Packaged Food,veg,171
+2.9,kg,Produce,veg,6
+16.2,boxes,Other,nonveg,109
+23.5,boxes,Produce,nonveg,140
+119.4,plates,Other,veg,116
+46.2,plates,Cooked Meal,nonveg,41
+53.3,plates,Other,veg,50
+43.0,pieces,Produce,nonveg,11
+28.4,kg,Other,nonveg,61
+98.7,plates,Bakery,veg,108
+7.6,plates,Packaged Food,nonveg,9
+7.6,boxes,Produce,veg,68
+15.5,liters,Bakery,veg,32
+101.0,plates,Dairy,veg,113
+8.6,liters,Dairy,nonveg,34
+3.1,liters,Dairy,nonveg,13
+30.9,liters,Produce,nonveg,57
+49.9,plates,Bakery,veg,47
+34.2,liters,Packaged Food,nonveg,83
+29.0,boxes,Produce,nonveg,176
+131.6,plates,Bakery,veg,178
+108.2,plates,Produce,veg,113
+5.1,kg,Dairy,nonveg,20
+5.5,liters,Dairy,nonveg,22
+28.0,boxes,Bakery,nonveg,231
+49.7,liters,Produce,nonveg,97
+16.6,liters,Produce,veg,38
+2.9,liters,Produce,veg,6
+23.0,liters,Packaged Food,nonveg,67
+27.9,liters,Produce,veg,56
+21.1,plates,Other,nonveg,19
+32.3,liters,Cooked Meal,nonveg,72
+4.2,boxes,Dairy,veg,43
+109.2,plates,Cooked Meal,veg,99
+18.8,boxes,Produce,veg,133
+4.3,kg,Other,nonveg,11
+61.6,plates,Dairy,veg,67
+110.3,pieces,Produce,veg,34
+221.2,pieces,Cooked Meal,veg,95
+18.1,pieces,Other,veg,8
+250.0,pieces,Dairy,veg,108
+4.1,liters,Packaged Food,veg,8
+10.9,kg,Packaged Food,nonveg,37
+296.8,pieces,Produce,nonveg,62
+2.1,boxes,Dairy,nonveg,16
+41.7,pieces,Cooked Meal,nonveg,18
+22.6,boxes,Produce,nonveg,159
+11.7,boxes,Bakery,nonveg,100
+219.5,pieces,Dairy,veg,125
+51.6,plates,Bakery,nonveg,61
+95.4,pieces,Cooked Meal,nonveg,39
+14.0,boxes,Other,nonveg,95
+86.0,pieces,Other,nonveg,51
+15.9,boxes,Cooked Meal,nonveg,113
+8.0,liters,Other,veg,17
+12.6,liters,Cooked Meal,veg,24
+117.9,pieces,Other,nonveg,46
+11.8,boxes,Other,nonveg,81
+81.8,plates,Cooked Meal,veg,70
+37.0,kg,Bakery,veg,123
+137.5,plates,Packaged Food,nonveg,219
+29.9,boxes,Other,veg,273
+4.6,boxes,Produce,veg,35
+24.5,boxes,Other,veg,175
+167.2,pieces,Produce,veg,49
+25.9,liters,Bakery,nonveg,52
+12.6,liters,Cooked Meal,veg,25
+242.1,pieces,Dairy,nonveg,112
+4.2,liters,Dairy,veg,14
+116.5,plates,Packaged Food,nonveg,179
+48.6,kg,Dairy,veg,178
+23.6,plates,Other,nonveg,19
+116.3,plates,Dairy,veg,166
+15.9,kg,Cooked Meal,veg,44
+107.1,pieces,Bakery,veg,53
+192.3,pieces,Cooked Meal,veg,87
+189.4,pieces,Dairy,veg,91
+9.4,liters,Other,veg,23
+127.2,plates,Dairy,nonveg,121
+47.5,kg,Cooked Meal,veg,108
+231.3,pieces,Dairy,veg,98
+98.1,plates,Packaged Food,nonveg,147
+24.3,boxes,Produce,veg,163
+22.5,kg,Cooked Meal,veg,51
+10.9,boxes,Packaged Food,veg,150
+43.6,pieces,Produce,nonveg,14
+51.3,plates,Produce,veg,47
+3.5,liters,Bakery,veg,7
+41.0,plates,Packaged Food,nonveg,59
+32.5,plates,Produce,nonveg,28
+15.5,boxes,Bakery,nonveg,141
+145.2,plates,Packaged Food,nonveg,205
+12.1,plates,Bakery,nonveg,13
+16.6,boxes,Other,nonveg,142
+26.6,boxes,Cooked Meal,veg,207
+3.5,kg,Produce,nonveg,5
+28.1,liters,Dairy,nonveg,117
+43.0,pieces,Dairy,veg,23
+24.1,boxes,Cooked Meal,nonveg,151
+25.5,liters,Bakery,nonveg,58
+36.0,kg,Cooked Meal,veg,94
+52.6,plates,Bakery,veg,54
+120.9,pieces,Dairy,veg,50
+214.1,pieces,Dairy,nonveg,83
+11.7,boxes,Produce,veg,69
+181.1,pieces,Dairy,veg,64
+109.6,plates,Produce,veg,103
+26.4,plates,Other,nonveg,23
+29.1,liters,Other,veg,71
+49.7,pieces,Packaged Food,nonveg,42
+25.6,liters,Other,nonveg,53
+26.4,kg,Other,veg,60
+160.0,pieces,Dairy,nonveg,71
+204.4,pieces,Dairy,nonveg,100
+61.7,pieces,Other,nonveg,28
+212.9,pieces,Bakery,nonveg,90
+14.9,boxes,Other,nonveg,81
+41.0,pieces,Other,nonveg,17
+134.9,plates,Other,nonveg,113
+89.9,pieces,Bakery,veg,38
+46.3,kg,Other,nonveg,95
+46.7,liters,Bakery,nonveg,72
+37.2,pieces,Other,veg,19
+97.5,plates,Cooked Meal,veg,89
+17.2,kg,Cooked Meal,nonveg,32
+20.9,kg,Bakery,veg,65
+22.9,boxes,Packaged Food,veg,269
+27.2,kg,Cooked Meal,veg,75
+21.5,kg,Other,veg,62
+6.4,boxes,Cooked Meal,nonveg,36
+7.7,pieces,Other,veg,4
+296.8,pieces,Produce,nonveg,80
+133.9,plates,Dairy,nonveg,175
+17.2,liters,Produce,veg,38
+21.8,boxes,Other,nonveg,178
+30.4,plates,Produce,veg,31
+15.9,boxes,Other,nonveg,135
+16.9,liters,Bakery,nonveg,34
+19.8,kg,Bakery,nonveg,50
+82.2,pieces,Produce,veg,25
+33.7,liters,Produce,veg,63
+105.1,plates,Other,nonveg,98
+186.3,pieces,Other,nonveg,87
+13.1,boxes,Bakery,nonveg,128
+23.1,boxes,Dairy,veg,194
+81.6,plates,Cooked Meal,nonveg,64
+4.0,kg,Produce,veg,7
+28.9,plates,Dairy,veg,36
+20.7,boxes,Dairy,veg,181
+14.1,boxes,Dairy,veg,110
+17.4,boxes,Dairy,nonveg,120
+13.5,kg,Produce,nonveg,23
+3.2,liters,Cooked Meal,veg,7
+2.6,kg,Cooked Meal,nonveg,6
+38.5,liters,Packaged Food,veg,135
+137.3,pieces,Packaged Food,nonveg,123
+20.8,boxes,Packaged Food,veg,230
+57.6,pieces,Other,veg,25
+22.1,boxes,Dairy,veg,199
+203.7,pieces,Cooked Meal,nonveg,95
+24.9,boxes,Dairy,nonveg,207
+2.6,liters,Produce,veg,6
+8.0,boxes,Other,veg,73
+40.5,plates,Packaged Food,veg,65
+7.8,boxes,Cooked Meal,nonveg,60
+12.5,liters,Cooked Meal,nonveg,31
+88.7,plates,Other,nonveg,84
+295.8,pieces,Bakery,veg,92
+15.7,liters,Dairy,nonveg,73
+28.2,liters,Other,nonveg,72
+236.8,pieces,Cooked Meal,nonveg,103
+59.2,pieces,Bakery,nonveg,24
+25.6,boxes,Dairy,veg,217
+48.4,kg,Packaged Food,nonveg,184
+61.3,plates,Dairy,veg,79
+3.7,boxes,Cooked Meal,nonveg,30
+14.2,liters,Other,veg,33
+24.5,liters,Cooked Meal,veg,46
+67.5,pieces,Produce,veg,22
+21.2,boxes,Other,veg,201
+45.8,liters,Other,nonveg,85
+9.9,boxes,Packaged Food,nonveg,102
+72.6,plates,Produce,nonveg,71
+16.3,liters,Produce,nonveg,25
+112.5,plates,Cooked Meal,veg,130
+47.8,plates,Dairy,nonveg,58
+117.1,pieces,Bakery,veg,50
+230.2,pieces,Other,nonveg,93
+5.9,boxes,Packaged Food,nonveg,66
+31.7,plates,Other,nonveg,27
+42.1,kg,Dairy,veg,202
+7.7,kg,Cooked Meal,nonveg,19
+35.7,liters,Other,veg,102
+33.3,kg,Produce,nonveg,62
+1.6,kg,Cooked Meal,nonveg,3
+40.5,kg,Produce,nonveg,73
+26.7,kg,Bakery,veg,81
+239.5,pieces,Produce,nonveg,77
+140.4,pieces,Cooked Meal,nonveg,65
+5.6,kg,Produce,veg,13
+2.6,boxes,Packaged Food,nonveg,31
+17.4,boxes,Packaged Food,nonveg,193
+38.3,plates,Cooked Meal,veg,44
+2.4,boxes,Dairy,nonveg,18
+57.9,pieces,Cooked Meal,veg,29
+114.1,plates,Bakery,veg,135
+9.7,boxes,Other,veg,67
+60.7,plates,Packaged Food,nonveg,79
+25.5,liters,Other,veg,66
+17.7,liters,Packaged Food,veg,53
+145.5,plates,Dairy,nonveg,160
+11.3,boxes,Packaged Food,veg,156
+20.7,boxes,Packaged Food,veg,242
+215.4,pieces,Dairy,veg,103
+117.1,pieces,Cooked Meal,veg,59
+36.4,pieces,Packaged Food,nonveg,31
+111.2,pieces,Cooked Meal,nonveg,51
+17.2,boxes,Bakery,nonveg,168
+1.8,boxes,Dairy,veg,16
+8.6,pieces,Dairy,nonveg,4
+22.0,boxes,Packaged Food,veg,171
+104.4,plates,Bakery,veg,108
+15.8,liters,Bakery,nonveg,28
+93.4,pieces,Packaged Food,nonveg,86
+283.5,pieces,Cooked Meal,nonveg,127
+6.2,liters,Dairy,nonveg,20
+17.3,kg,Produce,nonveg,27
+13.5,boxes,Produce,nonveg,74
+48.6,plates,Other,veg,41
+289.5,pieces,Packaged Food,veg,257
+290.5,pieces,Produce,nonveg,82
+4.3,boxes,Produce,nonveg,25
+34.4,liters,Dairy,veg,99
+40.1,liters,Packaged Food,nonveg,101
+34.0,kg,Other,nonveg,83
+39.7,liters,Produce,nonveg,79
+17.9,boxes,Cooked Meal,nonveg,97
+23.9,boxes,Other,veg,180
+20.9,plates,Produce,veg,21
+86.7,plates,Bakery,veg,122
+29.0,boxes,Other,nonveg,210
+22.8,liters,Produce,veg,46
+11.0,boxes,Packaged Food,veg,139
+41.7,kg,Packaged Food,veg,147
+16.3,liters,Other,nonveg,35
+33.8,pieces,Packaged Food,nonveg,32
+2.9,boxes,Other,nonveg,25
+204.8,pieces,Cooked Meal,veg,108
+28.0,liters,Bakery,veg,53
+31.9,liters,Packaged Food,nonveg,98
+1.8,boxes,Bakery,nonveg,16
+1.1,boxes,Dairy,nonveg,9
+37.9,liters,Bakery,nonveg,71
+58.0,plates,Cooked Meal,veg,56
+8.6,boxes,Bakery,veg,94
+185.3,pieces,Other,nonveg,76
+18.2,kg,Dairy,nonveg,62
+203.3,pieces,Other,veg,104
+16.0,kg,Produce,veg,34
+18.3,boxes,Dairy,nonveg,177
+6.4,boxes,Dairy,nonveg,47
+25.0,liters,Other,veg,54
+42.3,liters,Bakery,nonveg,64
+6.7,boxes,Cooked Meal,veg,45
+64.3,plates,Packaged Food,nonveg,72
+3.4,boxes,Packaged Food,veg,41
+2.6,liters,Cooked Meal,nonveg,5
+84.7,plates,Packaged Food,nonveg,128
+43.8,plates,Cooked Meal,veg,28
+27.8,kg,Dairy,nonveg,92
+15.6,kg,Packaged Food,veg,62
+43.4,kg,Produce,nonveg,80
+40.7,liters,Cooked Meal,veg,81
+29.1,plates,Other,nonveg,25
+40.5,liters,Bakery,veg,70
+51.9,plates,Dairy,veg,63
+174.0,pieces,Other,nonveg,91
+48.2,kg,Other,veg,115
+43.5,kg,Packaged Food,nonveg,164
+41.6,liters,Bakery,nonveg,90
+5.1,boxes,Other,nonveg,33
+19.4,boxes,Packaged Food,veg,204
+21.1,boxes,Cooked Meal,nonveg,170
+261.3,pieces,Packaged Food,veg,237
+32.1,kg,Other,nonveg,68
+29.1,boxes,Dairy,veg,204
+10.4,boxes,Bakery,nonveg,93
+119.3,plates,Bakery,nonveg,151
+5.9,kg,Other,veg,15
+23.4,liters,Cooked Meal,nonveg,41
+44.2,liters,Packaged Food,veg,122
+13.3,kg,Produce,nonveg,30
+20.4,liters,Produce,veg,38
+21.4,boxes,Bakery,veg,251
+4.8,liters,Cooked Meal,nonveg,9
+35.1,kg,Packaged Food,veg,113
+14.9,boxes,Cooked Meal,veg,120
+19.0,kg,Cooked Meal,nonveg,46
+38.9,liters,Produce,nonveg,72
+27.0,liters,Other,veg,63
+68.8,plates,Cooked Meal,veg,67
+25.9,boxes,Bakery,nonveg,199
+37.9,kg,Cooked Meal,veg,85
+78.1,pieces,Packaged Food,veg,73
+28.1,kg,Other,veg,61
+11.1,kg,Other,nonveg,23
+113.4,plates,Dairy,veg,146
+4.3,boxes,Bakery,nonveg,41
+81.6,plates,Packaged Food,veg,165
+43.2,liters,Produce,nonveg,76
+16.8,boxes,Dairy,nonveg,148
+1.7,kg,Cooked Meal,veg,5
+47.5,kg,Bakery,veg,131
+66.4,plates,Other,nonveg,65
+14.6,kg,Packaged Food,veg,48
+20.1,liters,Bakery,nonveg,42
+35.2,kg,Other,nonveg,79
+46.3,liters,Cooked Meal,veg,78
+10.0,boxes,Cooked Meal,veg,79
+35.4,kg,Cooked Meal,veg,71
+16.2,boxes,Bakery,nonveg,155
+226.2,pieces,Bakery,veg,74
+17.4,kg,Produce,veg,30
+76.9,plates,Produce,veg,82
+152.4,pieces,Dairy,veg,68
+12.2,kg,Produce,veg,23
+43.1,kg,Dairy,veg,179
+6.2,boxes,Produce,veg,44
+37.6,plates,Cooked Meal,nonveg,35
+173.6,pieces,Produce,veg,66
+31.0,plates,Cooked Meal,veg,35
+43.4,kg,Packaged Food,nonveg,95
+168.2,pieces,Produce,veg,55
+141.9,pieces,Dairy,veg,71
+22.2,boxes,Dairy,veg,159
+2.2,kg,Bakery,nonveg,6
+285.5,pieces,Dairy,veg,168
+65.5,pieces,Other,veg,33
+28.9,boxes,Bakery,nonveg,283
+46.1,kg,Produce,veg,91
+14.3,boxes,Dairy,nonveg,118
+4.7,liters,Dairy,nonveg,15
+33.5,kg,Dairy,nonveg,132
+10.2,boxes,Produce,nonveg,70
+47.2,liters,Produce,veg,107
+9.1,liters,Cooked Meal,veg,23
+40.6,pieces,Packaged Food,nonveg,33
+83.2,pieces,Packaged Food,nonveg,89
+40.6,kg,Cooked Meal,veg,95
+42.0,kg,Dairy,veg,198
+35.8,liters,Produce,veg,80
+246.9,pieces,Cooked Meal,nonveg,111
+42.9,kg,Bakery,nonveg,102
+24.3,boxes,Cooked Meal,veg,184
+4.0,kg,Bakery,veg,12
+20.9,boxes,Bakery,nonveg,176
+46.0,kg,Other,nonveg,145
+3.7,boxes,Bakery,veg,44
+47.2,kg,Produce,veg,119
+1.9,boxes,Packaged Food,nonveg,23
+11.3,boxes,Other,veg,98
+31.1,liters,Packaged Food,veg,88
+25.4,liters,Dairy,nonveg,103
+45.5,pieces,Cooked Meal,nonveg,19
+96.5,plates,Bakery,veg,124
+165.6,pieces,Packaged Food,nonveg,122
+119.6,pieces,Packaged Food,nonveg,115
+3.9,kg,Bakery,nonveg,12
+116.2,plates,Packaged Food,nonveg,212
+14.1,liters,Cooked Meal,veg,31
+29.2,kg,Other,veg,82
+30.0,liters,Bakery,veg,59
+212.5,pieces,Other,veg,96
+126.3,plates,Bakery,veg,170
+30.5,plates,Packaged Food,nonveg,44
+26.8,liters,Dairy,veg,108
+242.9,pieces,Cooked Meal,veg,117
+8.2,kg,Produce,veg,17
+42.5,liters,Other,veg,127
+10.8,boxes,Produce,veg,58
+36.9,liters,Produce,veg,62
+213.6,pieces,Packaged Food,veg,228
+37.4,plates,Dairy,nonveg,42
+57.4,pieces,Produce,veg,17
+128.4,plates,Cooked Meal,nonveg,121
+138.6,plates,Bakery,nonveg,129
+46.9,liters,Dairy,veg,211
+54.5,pieces,Bakery,nonveg,23
+8.4,pieces,Cooked Meal,nonveg,4
+217.5,pieces,Produce,veg,77
+22.2,boxes,Cooked Meal,nonveg,203
+16.8,boxes,Packaged Food,nonveg,177
+5.7,boxes,Cooked Meal,veg,55
+13.8,kg,Produce,nonveg,28
+9.3,kg,Cooked Meal,nonveg,18
+30.1,kg,Dairy,nonveg,126
+13.5,boxes,Dairy,veg,110
+6.0,liters,Packaged Food,veg,16
+35.2,liters,Bakery,nonveg,63
+75.1,pieces,Produce,nonveg,17
+5.5,boxes,Cooked Meal,nonveg,37
+34.0,plates,Produce,nonveg,34
+32.3,liters,Cooked Meal,veg,81
+143.9,pieces,Cooked Meal,nonveg,65
+194.4,pieces,Other,veg,89
+136.5,pieces,Packaged Food,veg,147
+8.6,boxes,Produce,nonveg,60
+33.7,kg,Bakery,veg,88
+17.1,boxes,Dairy,veg,172
+88.0,plates,Packaged Food,nonveg,99
+3.3,boxes,Bakery,nonveg,35
+22.4,plates,Dairy,veg,26
+48.6,liters,Packaged Food,veg,149
+10.9,kg,Packaged Food,nonveg,33
+16.7,liters,Other,nonveg,37
+17.0,boxes,Cooked Meal,nonveg,98
+138.0,plates,Produce,nonveg,151
+21.3,plates,Dairy,nonveg,26
+46.3,liters,Bakery,veg,88
+132.3,plates,Produce,nonveg,119
+17.6,boxes,Produce,nonveg,105
+2.9,liters,Packaged Food,nonveg,8
+37.5,liters,Produce,veg,92
+96.7,pieces,Cooked Meal,nonveg,39
+7.6,kg,Packaged Food,veg,30
+183.5,pieces,Produce,nonveg,50
+11.4,liters,Cooked Meal,nonveg,25
+157.0,pieces,Dairy,veg,65
+35.8,kg,Bakery,nonveg,82
+30.2,plates,Dairy,veg,44
+2.6,kg,Bakery,veg,9
+247.9,pieces,Bakery,nonveg,94
+20.8,boxes,Dairy,veg,189
+29.8,liters,Packaged Food,nonveg,94
+252.1,pieces,Produce,veg,75
+119.0,pieces,Cooked Meal,veg,73
+129.3,plates,Bakery,veg,138
+26.1,boxes,Produce,veg,156
+45.7,kg,Other,nonveg,95
+30.8,liters,Cooked Meal,nonveg,54
+269.2,pieces,Produce,nonveg,80
+20.6,boxes,Bakery,nonveg,169
+1.2,boxes,Dairy,veg,14
+48.3,plates,Produce,nonveg,44
+10.8,boxes,Cooked Meal,veg,85
+60.6,pieces,Produce,nonveg,18
+40.5,liters,Dairy,veg,171
+217.8,pieces,Other,veg,92
+8.5,boxes,Other,nonveg,56
+54.8,plates,Cooked Meal,veg,58
+45.4,liters,Other,nonveg,97
+47.6,plates,Bakery,veg,50
+36.5,liters,Packaged Food,nonveg,76
+70.6,pieces,Other,veg,32
+237.5,pieces,Bakery,nonveg,83
+14.6,boxes,Produce,veg,111
+73.5,plates,Other,veg,75
+13.0,boxes,Other,nonveg,101
+17.8,liters,Bakery,veg,45
+43.3,liters,Packaged Food,nonveg,117
+17.3,kg,Bakery,nonveg,53
+14.4,kg,Cooked Meal,nonveg,33
+76.0,plates,Bakery,veg,92
+12.7,boxes,Dairy,nonveg,100
+2.1,boxes,Packaged Food,veg,26
+10.3,pieces,Cooked Meal,veg,6
+35.0,liters,Cooked Meal,veg,74
+29.2,plates,Packaged Food,nonveg,42
+139.5,pieces,Cooked Meal,nonveg,55
+49.8,liters,Packaged Food,nonveg,135
+53.6,pieces,Packaged Food,veg,63
+36.6,liters,Cooked Meal,veg,71
+29.9,liters,Bakery,veg,63
+44.0,kg,Other,nonveg,111
+91.1,plates,Produce,veg,96
+21.4,kg,Cooked Meal,veg,54
+24.2,kg,Packaged Food,nonveg,86
+21.6,kg,Other,nonveg,57
+95.3,plates,Cooked Meal,nonveg,84
+46.0,plates,Cooked Meal,veg,41
+18.7,boxes,Cooked Meal,veg,156
+92.1,pieces,Bakery,nonveg,26
+137.0,plates,Cooked Meal,nonveg,119
+33.9,kg,Bakery,veg,89
+26.6,plates,Cooked Meal,nonveg,27
+32.6,kg,Other,nonveg,81
+142.0,pieces,Packaged Food,nonveg,139
+241.5,pieces,Cooked Meal,nonveg,116
+3.8,boxes,Produce,veg,27
+18.5,liters,Bakery,nonveg,33
+132.4,plates,Packaged Food,nonveg,216
+20.6,kg,Bakery,nonveg,64
+208.5,pieces,Packaged Food,nonveg,168
+35.1,kg,Bakery,veg,107
+21.4,liters,Cooked Meal,veg,39
+18.7,boxes,Other,veg,132
+130.1,plates,Produce,veg,148
+4.3,boxes,Bakery,nonveg,34
+2.8,boxes,Packaged Food,veg,33
+146.8,plates,Other,veg,145
+132.7,pieces,Other,veg,65
+25.3,boxes,Other,veg,175
+6.7,plates,Dairy,veg,10
+3.2,boxes,Packaged Food,veg,36
+102.6,pieces,Packaged Food,veg,100
+24.7,boxes,Dairy,nonveg,233
+24.2,boxes,Cooked Meal,nonveg,138
+294.3,pieces,Packaged Food,veg,317
+20.8,kg,Other,veg,60
+134.1,plates,Cooked Meal,nonveg,128
+47.6,liters,Dairy,nonveg,171
+17.2,boxes,Bakery,nonveg,163
+108.9,plates,Dairy,nonveg,119
+17.7,liters,Cooked Meal,veg,43
+212.1,pieces,Other,nonveg,104
+8.4,boxes,Bakery,veg,86
+46.6,liters,Bakery,veg,84
+228.4,pieces,Bakery,veg,99
+117.0,plates,Cooked Meal,veg,97
+1.2,liters,Dairy,nonveg,5
+42.1,kg,Other,nonveg,83
+110.9,plates,Bakery,veg,135
+33.2,kg,Bakery,nonveg,84
+8.9,boxes,Packaged Food,veg,100
+242.4,pieces,Produce,nonveg,74
+127.2,plates,Other,nonveg,132
+64.3,pieces,Dairy,veg,30
+25.7,liters,Produce,veg,48
+229.4,pieces,Other,veg,98
+26.4,boxes,Other,nonveg,183
+2.2,kg,Packaged Food,veg,9
+295.1,pieces,Bakery,veg,135
+252.6,pieces,Other,veg,122
+40.9,kg,Dairy,nonveg,136
+112.6,plates,Cooked Meal,veg,103
+278.3,pieces,Other,veg,135
+29.0,boxes,Packaged Food,nonveg,380
+125.3,plates,Bakery,nonveg,147
+234.0,pieces,Other,veg,128
+48.2,kg,Bakery,veg,141
+59.7,plates,Other,veg,51
+1.3,liters,Bakery,nonveg,3
+8.5,liters,Packaged Food,veg,25
+76.1,plates,Other,nonveg,72
+15.6,plates,Dairy,nonveg,18
+119.0,plates,Bakery,veg,123
+3.7,boxes,Bakery,nonveg,35
+91.6,pieces,Produce,nonveg,27
+149.5,plates,Dairy,nonveg,206
+22.8,kg,Cooked Meal,nonveg,37
+144.0,plates,Other,veg,138
+16.7,boxes,Cooked Meal,nonveg,111
+26.2,kg,Produce,nonveg,42
+26.2,liters,Produce,nonveg,48
+31.7,liters,Cooked Meal,veg,73
+7.0,boxes,Bakery,veg,81
+22.7,boxes,Other,veg,195
+4.6,kg,Produce,veg,10
+174.6,pieces,Bakery,veg,71
+13.6,boxes,Packaged Food,nonveg,164
+16.5,boxes,Cooked Meal,veg,118
+106.6,plates,Other,veg,93
+90.5,pieces,Cooked Meal,veg,42
+12.5,boxes,Produce,nonveg,68
+8.7,kg,Other,nonveg,21
+92.9,pieces,Dairy,veg,56
+168.3,pieces,Other,veg,79
+82.9,plates,Cooked Meal,nonveg,75
+225.7,pieces,Cooked Meal,veg,123
+28.3,plates,Packaged Food,veg,40
+33.2,plates,Bakery,nonveg,40
+98.5,plates,Cooked Meal,nonveg,108
+79.0,pieces,Cooked Meal,veg,42
+203.0,pieces,Produce,veg,70
+31.4,kg,Bakery,nonveg,94
+209.6,pieces,Packaged Food,nonveg,181
+122.1,plates,Bakery,nonveg,144
+35.9,liters,Produce,veg,70
+25.4,boxes,Other,nonveg,211
+11.4,boxes,Packaged Food,nonveg,144
+6.1,boxes,Produce,veg,35
+43.2,plates,Bakery,veg,44
+44.7,kg,Other,veg,123
+116.5,plates,Dairy,nonveg,120
+27.6,kg,Bakery,nonveg,87
+70.9,pieces,Bakery,nonveg,26
+142.1,pieces,Dairy,veg,62
+42.6,kg,Dairy,veg,169
+22.9,liters,Dairy,veg,103
+47.0,liters,Other,nonveg,137
+12.4,liters,Cooked Meal,nonveg,25
+20.0,liters,Other,nonveg,50
+49.0,kg,Packaged Food,veg,157
+175.7,pieces,Dairy,nonveg,94
+33.0,liters,Dairy,nonveg,107
+59.6,plates,Cooked Meal,nonveg,62
+56.2,plates,Bakery,nonveg,68
+77.8,plates,Packaged Food,veg,105
+7.7,boxes,Bakery,veg,70
+18.7,liters,Bakery,veg,37
+21.3,kg,Other,veg,52
+7.1,boxes,Other,nonveg,55
+8.1,boxes,Bakery,veg,90
+134.2,plates,Bakery,veg,180
+13.7,kg,Bakery,veg,46
+132.4,plates,Dairy,veg,219
+68.9,pieces,Other,veg,31
+41.7,liters,Packaged Food,veg,115
+31.5,liters,Dairy,veg,117
+181.0,pieces,Other,nonveg,83
+19.9,liters,Cooked Meal,nonveg,43
+18.6,boxes,Dairy,veg,176
+26.5,boxes,Bakery,veg,213
+27.2,boxes,Cooked Meal,veg,209
+26.6,kg,Dairy,nonveg,95
+28.2,boxes,Dairy,veg,260
+18.1,boxes,Packaged Food,nonveg,198
+66.7,plates,Other,veg,53
+27.4,boxes,Produce,veg,219
+6.5,boxes,Dairy,nonveg,58
+26.5,kg,Other,veg,62
+4.1,boxes,Produce,nonveg,28
+42.9,plates,Packaged Food,nonveg,50
+227.7,pieces,Dairy,nonveg,101
+30.9,plates,Packaged Food,nonveg,37
+117.3,plates,Produce,nonveg,103
+37.6,liters,Packaged Food,veg,93
+25.9,kg,Bakery,veg,82
+28.3,plates,Produce,veg,29
+46.4,liters,Cooked Meal,nonveg,94
+13.9,kg,Packaged Food,veg,43
+18.8,boxes,Other,nonveg,155
+284.0,pieces,Dairy,veg,152
+42.7,kg,Packaged Food,veg,126
+14.9,pieces,Dairy,veg,7
+102.7,plates,Bakery,veg,113
+48.8,liters,Produce,veg,106
+124.6,pieces,Packaged Food,nonveg,120
+111.9,plates,Bakery,veg,141
+55.4,plates,Produce,nonveg,52
+23.3,liters,Produce,veg,46
+17.2,boxes,Bakery,veg,173
+284.4,pieces,Dairy,nonveg,144
+105.7,plates,Dairy,nonveg,90
+116.6,plates,Packaged Food,nonveg,163
+15.0,boxes,Packaged Food,veg,125
+32.0,kg,Produce,nonveg,69
+286.9,pieces,Bakery,nonveg,105
+106.6,plates,Dairy,veg,137
+168.6,pieces,Packaged Food,veg,185
+11.3,boxes,Bakery,nonveg,112
+37.1,liters,Other,nonveg,80
+11.1,liters,Bakery,nonveg,21
+234.8,pieces,Dairy,veg,128
+31.1,kg,Cooked Meal,nonveg,72
+19.0,boxes,Cooked Meal,nonveg,119
+76.2,plates,Packaged Food,nonveg,133
+22.8,boxes,Produce,veg,155
+24.4,kg,Bakery,nonveg,58
+48.8,liters,Packaged Food,nonveg,130
+50.8,plates,Other,nonveg,55
+52.2,plates,Packaged Food,veg,79
+166.8,pieces,Dairy,veg,84
+59.3,pieces,Dairy,nonveg,31
+35.3,liters,Packaged Food,nonveg,81
+17.6,boxes,Produce,veg,144
+36.3,liters,Dairy,veg,153
+40.2,liters,Packaged Food,veg,103
+40.5,liters,Other,nonveg,99
+118.9,plates,Other,nonveg,123
+122.5,pieces,Produce,veg,36
+14.0,boxes,Produce,veg,94
+111.3,pieces,Produce,nonveg,24
+6.9,kg,Produce,nonveg,12
+88.6,plates,Other,veg,81
+203.6,pieces,Produce,nonveg,49
+12.1,boxes,Packaged Food,veg,140
+21.7,liters,Bakery,nonveg,47
+128.1,plates,Dairy,nonveg,163
+197.6,pieces,Bakery,nonveg,75
+85.0,pieces,Other,nonveg,30
+65.0,plates,Produce,nonveg,65
+36.7,kg,Bakery,veg,94
+9.2,kg,Other,veg,17
+46.9,kg,Cooked Meal,veg,113
+20.1,plates,Packaged Food,veg,30
+33.1,liters,Dairy,veg,143
+189.8,pieces,Bakery,nonveg,65
+9.1,plates,Bakery,veg,10
+29.3,boxes,Produce,nonveg,150
+44.9,pieces,Dairy,nonveg,24
+96.5,plates,Dairy,nonveg,110
+80.9,plates,Other,nonveg,70
+24.3,boxes,Produce,veg,157
+126.6,pieces,Packaged Food,nonveg,118
+15.1,liters,Dairy,nonveg,56
+47.4,kg,Dairy,nonveg,172
+240.0,pieces,Packaged Food,veg,241
+126.5,pieces,Dairy,veg,56
+7.4,boxes,Bakery,nonveg,65
+16.0,boxes,Cooked Meal,veg,135
+196.3,pieces,Other,nonveg,76
+60.5,pieces,Dairy,nonveg,29
+8.9,boxes,Cooked Meal,nonveg,67
+10.3,boxes,Dairy,veg,110
+14.8,liters,Cooked Meal,veg,41
+7.8,boxes,Bakery,veg,84
+23.8,boxes,Produce,nonveg,171
+210.6,pieces,Packaged Food,nonveg,203
+39.0,kg,Bakery,nonveg,109
+31.3,plates,Cooked Meal,nonveg,31
+48.8,kg,Packaged Food,veg,161
+38.8,liters,Other,nonveg,73
+37.0,liters,Cooked Meal,nonveg,80
+73.6,plates,Cooked Meal,veg,70
+37.5,liters,Produce,veg,68
+41.7,plates,Dairy,veg,51
+12.6,liters,Cooked Meal,veg,26
+54.4,pieces,Packaged Food,veg,54
+29.5,kg,Bakery,veg,94
+11.8,boxes,Other,veg,100
+140.0,plates,Cooked Meal,nonveg,134
+18.4,kg,Other,veg,50
+12.4,liters,Cooked Meal,nonveg,28
+221.3,pieces,Dairy,nonveg,114
+45.0,liters,Other,nonveg,105
+16.7,boxes,Packaged Food,nonveg,156
+221.1,pieces,Dairy,nonveg,103
+15.0,plates,Produce,veg,16
+70.8,plates,Produce,nonveg,71
+111.4,plates,Other,nonveg,115
+51.5,plates,Produce,veg,46
+32.5,plates,Cooked Meal,nonveg,27
+51.8,plates,Bakery,nonveg,47
+33.4,pieces,Other,veg,16
+10.9,liters,Bakery,veg,21
+2.6,liters,Packaged Food,veg,7
+12.1,plates,Packaged Food,nonveg,15
+6.9,plates,Bakery,veg,10
+11.5,boxes,Cooked Meal,veg,84
+24.0,boxes,Other,nonveg,204
+41.9,kg,Dairy,veg,178
+6.0,liters,Cooked Meal,veg,13
+87.7,plates,Bakery,veg,118
+113.2,plates,Bakery,nonveg,127
+26.6,boxes,Other,nonveg,165
+25.7,liters,Bakery,nonveg,43
+27.2,boxes,Dairy,nonveg,197
+126.6,pieces,Dairy,nonveg,49
+86.7,plates,Produce,veg,72
+11.4,boxes,Bakery,nonveg,74
+30.2,kg,Cooked Meal,nonveg,76
+1.3,liters,Dairy,nonveg,5
+46.0,kg,Produce,nonveg,84
+18.7,plates,Dairy,veg,23
+73.7,pieces,Produce,veg,22
+28.9,kg,Produce,nonveg,54
+15.2,boxes,Produce,veg,111
+91.3,plates,Other,veg,86
+23.6,boxes,Dairy,veg,252
+127.9,pieces,Produce,nonveg,41
+96.9,plates,Bakery,veg,95
+9.8,boxes,Other,veg,90
+50.2,pieces,Bakery,veg,21
+22.8,boxes,Other,nonveg,160
+48.7,pieces,Packaged Food,nonveg,44
+29.0,kg,Produce,nonveg,60
+23.4,boxes,Cooked Meal,nonveg,179
+28.4,liters,Bakery,nonveg,43
+40.1,plates,Bakery,veg,49
+20.9,boxes,Produce,nonveg,128
+11.1,boxes,Packaged Food,nonveg,119
+232.1,pieces,Produce,veg,73
+68.9,plates,Packaged Food,veg,113
+8.6,liters,Bakery,nonveg,16
+47.5,kg,Other,veg,113
+106.3,pieces,Bakery,veg,44
+11.2,kg,Packaged Food,nonveg,33
+27.8,liters,Dairy,veg,111
+19.5,liters,Dairy,veg,66
+42.0,plates,Other,veg,45
+12.7,plates,Other,nonveg,12
+20.0,kg,Other,veg,48
+10.6,pieces,Other,veg,7
+29.4,boxes,Other,veg,191
+6.4,boxes,Produce,veg,44
+2.2,boxes,Dairy,veg,22
+1.5,boxes,Packaged Food,veg,17
+189.4,pieces,Other,nonveg,90
+189.6,pieces,Dairy,veg,126
+12.1,kg,Packaged Food,nonveg,36
+26.5,kg,Bakery,nonveg,80
+65.5,plates,Other,veg,58
+70.1,plates,Produce,nonveg,61
+29.5,liters,Bakery,veg,57
+131.9,pieces,Bakery,veg,49
+51.0,plates,Bakery,veg,44
+42.1,liters,Cooked Meal,nonveg,76
+44.1,kg,Bakery,nonveg,109
+234.8,pieces,Packaged Food,veg,250
+2.3,liters,Cooked Meal,veg,6
+91.5,plates,Dairy,veg,117
+4.9,kg,Bakery,nonveg,14
+6.3,boxes,Dairy,nonveg,49
+5.0,boxes,Packaged Food,nonveg,56
+70.7,pieces,Cooked Meal,nonveg,33
+4.2,liters,Other,veg,14
+26.1,boxes,Dairy,nonveg,183
+23.5,boxes,Bakery,nonveg,179
+185.4,pieces,Other,nonveg,73
+80.5,plates,Other,veg,63
+49.2,liters,Cooked Meal,nonveg,106
+79.8,plates,Cooked Meal,nonveg,72
+26.6,boxes,Produce,nonveg,167
+13.3,boxes,Produce,veg,90
+41.7,liters,Dairy,nonveg,149
+9.8,kg,Packaged Food,veg,27
+21.3,liters,Dairy,nonveg,68
+23.2,kg,Packaged Food,veg,98
+16.9,kg,Packaged Food,nonveg,46
+5.5,liters,Other,veg,13
+110.4,plates,Cooked Meal,nonveg,85
+59.9,plates,Dairy,veg,66
+28.5,plates,Produce,veg,32
+21.6,liters,Bakery,veg,40
+39.7,pieces,Packaged Food,veg,47
+31.5,liters,Bakery,veg,63
+93.2,plates,Packaged Food,veg,158
+29.9,liters,Packaged Food,veg,79
+40.5,plates,Cooked Meal,veg,41
+19.4,pieces,Dairy,veg,11
+33.7,liters,Cooked Meal,veg,85
+276.5,pieces,Dairy,nonveg,142
+30.9,liters,Bakery,nonveg,59
+145.1,plates,Other,veg,145
+16.8,kg,Cooked Meal,nonveg,34
+42.3,kg,Packaged Food,nonveg,153
+160.5,pieces,Cooked Meal,nonveg,78
+31.0,liters,Dairy,veg,143
+75.1,plates,Other,veg,84
+66.9,plates,Other,nonveg,65
+139.4,plates,Dairy,nonveg,154
+80.4,plates,Dairy,nonveg,87
+107.7,plates,Bakery,veg,116
+2.2,kg,Bakery,veg,6
+65.0,plates,Bakery,nonveg,69
+8.3,pieces,Produce,veg,3
+154.5,pieces,Cooked Meal,nonveg,78
+34.6,kg,Produce,veg,62
+10.5,kg,Dairy,veg,49
+24.1,boxes,Produce,nonveg,142
+14.4,boxes,Other,nonveg,94
+28.7,kg,Packaged Food,nonveg,86
+40.2,liters,Cooked Meal,nonveg,70
+14.7,kg,Produce,veg,39
+87.8,plates,Other,veg,94
+43.4,liters,Packaged Food,veg,130
+21.3,kg,Produce,nonveg,32
+23.1,liters,Packaged Food,nonveg,69
+19.3,liters,Produce,veg,38
+22.7,liters,Cooked Meal,veg,57
+17.7,liters,Dairy,veg,72
+117.5,plates,Packaged Food,nonveg,187
+36.5,liters,Dairy,veg,174
+1.1,boxes,Packaged Food,veg,15
+23.9,kg,Dairy,nonveg,81
+2.1,kg,Cooked Meal,nonveg,5
+61.8,pieces,Bakery,veg,20
+117.1,plates,Produce,nonveg,103
+9.5,pieces,Bakery,veg,3
+35.0,plates,Dairy,veg,43
+55.5,pieces,Bakery,veg,24
+83.4,plates,Produce,nonveg,79
+19.8,kg,Other,veg,50
+6.2,boxes,Cooked Meal,nonveg,40
+10.1,boxes,Other,nonveg,68
+146.2,plates,Bakery,veg,176
+5.8,kg,Bakery,nonveg,14
+7.7,boxes,Produce,nonveg,52
+120.7,pieces,Dairy,nonveg,69
+138.7,pieces,Other,nonveg,72
+25.5,boxes,Produce,nonveg,168
+154.8,pieces,Produce,veg,39
+238.8,pieces,Cooked Meal,veg,132
+18.1,boxes,Dairy,nonveg,151
+2.9,boxes,Bakery,nonveg,29
+118.7,plates,Bakery,nonveg,106
+33.5,liters,Dairy,veg,145
+21.6,plates,Cooked Meal,nonveg,18
+9.9,boxes,Cooked Meal,veg,74
+34.6,kg,Packaged Food,veg,99
+3.6,boxes,Produce,veg,22
+114.8,plates,Bakery,veg,128
+6.7,boxes,Produce,nonveg,38
+173.2,pieces,Other,nonveg,87
+176.9,pieces,Packaged Food,veg,168
+127.9,plates,Dairy,nonveg,157
+35.5,kg,Dairy,veg,137
+43.4,kg,Produce,nonveg,81
+124.8,pieces,Packaged Food,nonveg,136
+101.1,plates,Packaged Food,veg,140
+50.5,pieces,Packaged Food,nonveg,47
+1.6,liters,Other,veg,4
+3.5,boxes,Packaged Food,veg,40
+26.9,boxes,Other,nonveg,180
+26.0,liters,Dairy,nonveg,71
+11.3,boxes,Dairy,nonveg,100
+21.7,boxes,Dairy,veg,225
+2.0,boxes,Produce,nonveg,15
+48.1,kg,Produce,nonveg,91
+23.8,liters,Cooked Meal,nonveg,59
+31.9,liters,Cooked Meal,nonveg,72
+31.0,kg,Other,nonveg,80
+15.9,boxes,Cooked Meal,nonveg,107
+66.0,plates,Packaged Food,nonveg,110
+35.1,liters,Produce,veg,67
+23.1,pieces,Dairy,nonveg,10
+89.6,pieces,Cooked Meal,veg,45
+42.7,liters,Cooked Meal,veg,93
+9.2,pieces,Produce,nonveg,3
+137.0,plates,Cooked Meal,veg,135
+39.3,liters,Produce,nonveg,60
+24.2,boxes,Bakery,veg,259
+42.0,liters,Cooked Meal,veg,85
+20.2,boxes,Packaged Food,veg,240
+194.5,pieces,Dairy,veg,90
+23.7,kg,Cooked Meal,veg,51
+34.5,liters,Dairy,nonveg,130
+5.2,boxes,Packaged Food,nonveg,58
+28.9,boxes,Packaged Food,nonveg,315
+46.0,kg,Other,veg,93
+53.6,plates,Packaged Food,nonveg,57
+33.1,kg,Produce,nonveg,51
+26.5,liters,Other,veg,75
+27.8,liters,Other,nonveg,57
+16.2,boxes,Cooked Meal,veg,104
+7.4,boxes,Other,nonveg,54
+13.2,plates,Cooked Meal,veg,14
+35.7,liters,Dairy,veg,167
+27.0,boxes,Bakery,veg,314
+15.4,liters,Other,nonveg,35
+209.2,pieces,Packaged Food,nonveg,185
+52.8,pieces,Other,nonveg,29
+29.9,boxes,Packaged Food,nonveg,361
+135.0,pieces,Produce,veg,29
+19.7,boxes,Dairy,veg,180
+11.7,liters,Cooked Meal,nonveg,20
+15.3,pieces,Other,veg,6
+117.7,plates,Cooked Meal,nonveg,123
+33.6,kg,Other,veg,85
+45.3,liters,Produce,nonveg,73
+12.7,boxes,Packaged Food,nonveg,131
+1.2,kg,Other,veg,4
+17.3,kg,Packaged Food,nonveg,52
+19.3,boxes,Produce,veg,142
+253.1,pieces,Dairy,veg,125
+28.2,liters,Produce,veg,66
+19.3,boxes,Produce,veg,130
+26.7,boxes,Produce,veg,173
+36.3,liters,Cooked Meal,veg,82
+20.0,liters,Dairy,nonveg,77
+145.2,plates,Packaged Food,nonveg,167
+3.7,kg,Cooked Meal,nonveg,9
+47.1,liters,Cooked Meal,nonveg,92
+46.3,liters,Dairy,veg,197
+45.5,kg,Other,nonveg,106
+35.4,kg,Dairy,veg,149
+139.6,pieces,Cooked Meal,veg,74
+123.6,plates,Bakery,veg,165
+40.4,liters,Dairy,veg,176
+100.6,pieces,Packaged Food,nonveg,107
+230.4,pieces,Bakery,veg,90
+4.1,liters,Dairy,nonveg,15
+134.4,pieces,Bakery,veg,64
+5.9,kg,Dairy,veg,26
+5.0,kg,Bakery,nonveg,12
+35.6,liters,Cooked Meal,veg,72
+7.0,boxes,Other,veg,53
+126.5,pieces,Other,nonveg,67
+109.0,plates,Cooked Meal,veg,102
+18.0,kg,Dairy,nonveg,72
+94.7,plates,Cooked Meal,veg,95
+72.3,plates,Dairy,veg,89
+40.0,liters,Cooked Meal,veg,83
+6.1,boxes,Other,nonveg,44
+66.8,pieces,Other,nonveg,30
+17.8,pieces,Produce,nonveg,5
+24.8,liters,Bakery,veg,36
+36.3,kg,Cooked Meal,veg,83
+234.8,pieces,Bakery,veg,88
+12.6,liters,Produce,veg,23
+29.7,kg,Bakery,nonveg,85
+7.3,boxes,Cooked Meal,veg,55
+36.3,liters,Produce,nonveg,64
+64.7,pieces,Other,nonveg,34
+37.8,pieces,Cooked Meal,veg,21
+6.0,boxes,Packaged Food,nonveg,57
+29.3,liters,Dairy,veg,142
+21.2,liters,Dairy,veg,65
+126.4,plates,Bakery,nonveg,135
+37.1,kg,Produce,nonveg,68
+45.8,liters,Dairy,veg,203
+2.2,boxes,Cooked Meal,veg,14
+14.9,boxes,Cooked Meal,nonveg,114
+25.3,kg,Other,nonveg,68
+4.8,boxes,Other,veg,42
+1.8,liters,Produce,veg,3
+146.6,plates,Packaged Food,veg,206
+10.1,liters,Packaged Food,nonveg,31
+19.9,kg,Other,veg,44
+92.5,pieces,Other,veg,46
+119.2,plates,Dairy,veg,126
+111.7,plates,Cooked Meal,nonveg,131
+37.7,pieces,Other,veg,21
+11.6,boxes,Produce,veg,87
+25.1,plates,Cooked Meal,veg,29
+32.8,liters,Produce,veg,65
+16.7,liters,Other,veg,33
+45.2,plates,Produce,nonveg,46
+73.2,plates,Packaged Food,veg,115
+70.5,plates,Dairy,nonveg,74
+44.7,kg,Other,veg,127
+20.1,kg,Packaged Food,veg,80
+14.5,kg,Cooked Meal,veg,46
+8.4,liters,Other,nonveg,21
+291.0,pieces,Cooked Meal,nonveg,172
+18.0,liters,Dairy,nonveg,56
+2.1,liters,Produce,veg,4
+64.7,plates,Bakery,nonveg,65
+14.3,boxes,Produce,nonveg,105
+9.4,liters,Dairy,nonveg,34
+18.3,kg,Produce,veg,42
+35.9,liters,Packaged Food,veg,100
+12.7,liters,Other,veg,42
+135.1,pieces,Cooked Meal,veg,64
+48.9,kg,Other,nonveg,119
+164.3,pieces,Bakery,nonveg,64
+23.3,boxes,Cooked Meal,nonveg,186
+6.3,pieces,Packaged Food,veg,6
+269.3,pieces,Produce,nonveg,50
+17.6,liters,Dairy,nonveg,72
+16.1,liters,Cooked Meal,veg,39
+69.7,plates,Packaged Food,veg,108
+39.3,liters,Other,veg,100
+5.1,liters,Produce,veg,11
+33.2,plates,Cooked Meal,nonveg,26
+136.7,plates,Produce,veg,131
+115.0,pieces,Packaged Food,nonveg,111
+95.9,pieces,Produce,nonveg,23
+24.3,boxes,Bakery,nonveg,235
+36.7,liters,Produce,nonveg,54
+11.2,kg,Dairy,veg,50
+14.6,plates,Packaged Food,nonveg,24
+32.3,kg,Cooked Meal,nonveg,71
+17.1,boxes,Produce,veg,114
+41.8,liters,Bakery,veg,67
+11.1,plates,Produce,nonveg,11
+7.5,boxes,Produce,nonveg,39
+15.7,liters,Cooked Meal,nonveg,28
+57.9,pieces,Cooked Meal,nonveg,23
+6.8,liters,Other,veg,16
+89.3,plates,Cooked Meal,nonveg,113
+19.2,boxes,Dairy,nonveg,130
+254.4,pieces,Cooked Meal,veg,131
+26.2,plates,Bakery,veg,26
+14.4,liters,Produce,veg,30
+90.5,pieces,Packaged Food,veg,65
+38.5,liters,Dairy,veg,146
+43.7,liters,Dairy,nonveg,174
+33.3,pieces,Produce,nonveg,8
+8.8,pieces,Dairy,veg,4
+27.7,boxes,Packaged Food,nonveg,302
+8.6,kg,Bakery,veg,26
+65.5,plates,Dairy,veg,92
+46.2,kg,Cooked Meal,veg,104
+44.6,liters,Produce,nonveg,83
+30.0,plates,Dairy,nonveg,33
+43.0,liters,Cooked Meal,veg,112
+7.1,liters,Bakery,nonveg,13
+1.9,kg,Other,veg,5
+6.7,boxes,Packaged Food,veg,94
+6.8,kg,Dairy,nonveg,26
+15.8,kg,Produce,veg,33
+90.2,plates,Cooked Meal,veg,91
+2.4,liters,Bakery,nonveg,5
+56.1,plates,Produce,nonveg,60
+78.2,plates,Dairy,veg,122
+108.8,plates,Cooked Meal,veg,119
+48.7,liters,Produce,veg,104
+21.2,boxes,Dairy,nonveg,184
+6.2,boxes,Bakery,veg,58
+64.1,plates,Bakery,veg,84
+6.4,kg,Produce,nonveg,13
+29.3,pieces,Other,veg,17
+14.9,kg,Packaged Food,nonveg,44
+15.2,liters,Packaged Food,nonveg,39
+44.8,liters,Packaged Food,veg,147
+49.9,liters,Produce,veg,73
+22.5,kg,Packaged Food,nonveg,70
+21.2,boxes,Bakery,nonveg,187
+18.8,liters,Cooked Meal,veg,42
+42.1,kg,Packaged Food,veg,159
+23.2,boxes,Other,nonveg,174
+14.8,boxes,Other,nonveg,91
+15.8,boxes,Dairy,nonveg,141
+151.7,pieces,Cooked Meal,nonveg,77
+5.9,liters,Other,veg,15
+19.7,kg,Other,veg,50
+94.3,pieces,Other,veg,40
+119.9,plates,Other,nonveg,95
+149.6,pieces,Bakery,nonveg,55
+143.1,plates,Dairy,veg,206
+12.1,boxes,Cooked Meal,veg,92
+9.7,kg,Packaged Food,veg,38
+150.0,pieces,Other,veg,84
+33.3,kg,Packaged Food,nonveg,122
+74.0,plates,Other,nonveg,74
+179.4,pieces,Packaged Food,nonveg,146
+116.1,plates,Packaged Food,nonveg,159
+42.0,kg,Dairy,veg,175
+116.0,plates,Produce,veg,106
+126.5,pieces,Packaged Food,nonveg,107
+12.5,liters,Cooked Meal,veg,27
+6.6,kg,Other,nonveg,16
+2.8,kg,Bakery,nonveg,7
+1.6,boxes,Dairy,nonveg,12
+147.9,plates,Packaged Food,veg,203
+5.9,kg,Dairy,nonveg,24
+25.3,liters,Other,nonveg,62
+57.7,plates,Bakery,nonveg,53
+32.1,liters,Packaged Food,nonveg,93
+14.0,liters,Dairy,nonveg,51
+121.7,plates,Produce,nonveg,88
+90.8,plates,Other,veg,71
+21.9,kg,Produce,nonveg,39
+67.8,plates,Produce,nonveg,65
+127.2,pieces,Dairy,veg,64
+132.7,plates,Other,veg,152
+88.6,plates,Other,veg,95
+28.2,boxes,Other,nonveg,270
+140.5,plates,Dairy,nonveg,167
+48.6,pieces,Bakery,nonveg,17
+126.0,pieces,Bakery,nonveg,54
+14.1,liters,Other,nonveg,26
+34.7,liters,Produce,nonveg,64
+13.0,liters,Bakery,veg,28
+17.2,boxes,Produce,nonveg,93
+14.4,liters,Cooked Meal,veg,34
+199.3,pieces,Cooked Meal,nonveg,101
+2.6,boxes,Other,veg,25
+260.8,pieces,Cooked Meal,nonveg,132
+47.2,kg,Produce,nonveg,81
+6.5,liters,Other,veg,16
+77.0,plates,Dairy,nonveg,67
+38.9,liters,Cooked Meal,veg,78
+28.1,boxes,Other,veg,272
+9.6,liters,Bakery,veg,22
+76.1,plates,Produce,veg,74
+27.7,kg,Produce,nonveg,46
+24.3,liters,Produce,nonveg,45
+195.4,pieces,Produce,veg,60
+13.4,kg,Other,veg,33
+271.4,pieces,Packaged Food,nonveg,235
+1.2,boxes,Bakery,nonveg,10
+31.6,pieces,Packaged Food,nonveg,30
+31.9,liters,Bakery,nonveg,54
+8.9,boxes,Other,veg,84
+27.9,boxes,Packaged Food,nonveg,339
+24.9,boxes,Produce,veg,166
+14.1,boxes,Produce,nonveg,79
+31.9,kg,Cooked Meal,veg,81
+16.4,liters,Packaged Food,nonveg,42
+13.2,kg,Cooked Meal,veg,31
+39.8,liters,Other,nonveg,73
+26.3,boxes,Produce,nonveg,178
+63.6,pieces,Dairy,nonveg,31
+121.1,pieces,Packaged Food,veg,101
+47.5,liters,Dairy,veg,220
+136.5,plates,Dairy,veg,191
+20.7,liters,Other,veg,51
+26.6,plates,Packaged Food,nonveg,39
+36.2,kg,Dairy,veg,142
+4.4,boxes,Packaged Food,nonveg,48
+117.7,pieces,Produce,nonveg,30
+49.8,liters,Packaged Food,veg,144
+39.8,liters,Packaged Food,nonveg,129
+74.5,pieces,Cooked Meal,nonveg,31
+1.3,boxes,Dairy,veg,12
+207.6,pieces,Bakery,nonveg,73
+15.6,plates,Other,nonveg,12
+17.3,kg,Dairy,veg,71
+5.8,plates,Dairy,veg,10
+48.9,plates,Dairy,nonveg,53
+13.8,kg,Dairy,veg,59
+26.5,boxes,Dairy,nonveg,235
+8.6,boxes,Dairy,veg,83
+25.5,kg,Produce,veg,56
+27.2,boxes,Produce,nonveg,172
+80.0,plates,Produce,nonveg,69
+17.1,boxes,Other,veg,141
+6.5,boxes,Other,veg,56
+213.3,pieces,Packaged Food,veg,219
+3.0,kg,Packaged Food,nonveg,9
+4.3,boxes,Packaged Food,nonveg,54
+18.1,liters,Other,veg,47
+86.7,plates,Bakery,nonveg,105
+89.6,plates,Other,veg,103
+46.1,liters,Dairy,nonveg,165
+26.7,boxes,Bakery,veg,315
+19.3,kg,Other,nonveg,46
+13.5,pieces,Cooked Meal,veg,6
+18.2,boxes,Packaged Food,nonveg,210
+198.6,pieces,Cooked Meal,veg,109
+35.6,plates,Other,veg,34
+240.5,pieces,Cooked Meal,nonveg,110
+12.6,boxes,Dairy,veg,96
+5.4,liters,Bakery,nonveg,10
+40.6,pieces,Packaged Food,veg,38
+27.2,boxes,Packaged Food,nonveg,273
+149.4,pieces,Cooked Meal,veg,70
+17.3,boxes,Packaged Food,nonveg,157
+67.9,plates,Produce,veg,74
+26.2,kg,Packaged Food,veg,108
+26.8,liters,Other,nonveg,60
+47.2,plates,Other,veg,36
+295.3,pieces,Packaged Food,veg,325
+159.3,pieces,Other,veg,79
+26.0,kg,Cooked Meal,veg,67
+33.4,kg,Packaged Food,nonveg,99
+116.5,plates,Produce,veg,112
+9.8,kg,Cooked Meal,nonveg,24
+10.1,boxes,Cooked Meal,nonveg,82
+19.1,boxes,Other,nonveg,136
+4.8,liters,Bakery,veg,13
+133.0,pieces,Dairy,veg,74
+23.5,liters,Cooked Meal,nonveg,48
+48.9,plates,Packaged Food,nonveg,72
+3.5,boxes,Other,nonveg,22
+6.5,kg,Bakery,veg,26
+32.8,liters,Cooked Meal,nonveg,68
+42.3,liters,Other,nonveg,106
+48.7,pieces,Cooked Meal,nonveg,20
+9.1,kg,Packaged Food,veg,35
+25.9,boxes,Packaged Food,veg,358
+15.4,liters,Dairy,veg,65
+31.9,kg,Produce,veg,57
+25.6,boxes,Other,nonveg,186
+148.8,pieces,Dairy,veg,62
+38.6,plates,Packaged Food,nonveg,54
+84.0,pieces,Dairy,veg,42
+4.4,boxes,Other,nonveg,28
+5.7,boxes,Packaged Food,veg,60
+17.8,liters,Other,nonveg,41
+43.7,pieces,Other,nonveg,22
+25.2,boxes,Produce,nonveg,148
+14.8,liters,Packaged Food,veg,37
+7.3,kg,Other,nonveg,18
+9.8,boxes,Cooked Meal,nonveg,83
+149.9,plates,Bakery,veg,169
+41.6,liters,Other,veg,112
+17.5,kg,Dairy,veg,75
+13.6,liters,Dairy,nonveg,53
+232.2,pieces,Produce,veg,53
+107.4,plates,Other,veg,98
+29.3,boxes,Packaged Food,veg,363
+78.6,plates,Cooked Meal,veg,66
+45.6,kg,Bakery,veg,144
+111.2,plates,Packaged Food,nonveg,166
+17.4,liters,Cooked Meal,nonveg,41
+8.1,boxes,Packaged Food,veg,114
+154.0,pieces,Packaged Food,nonveg,156
+49.7,pieces,Packaged Food,veg,53
+5.0,boxes,Dairy,veg,34
+141.8,plates,Packaged Food,nonveg,218
+36.2,liters,Packaged Food,veg,104
+294.7,pieces,Produce,nonveg,81
+12.4,boxes,Bakery,veg,157
+146.8,plates,Bakery,veg,187
+65.8,plates,Other,nonveg,69
+7.3,pieces,Produce,nonveg,2
+106.5,plates,Produce,veg,98
+106.1,plates,Dairy,nonveg,130
+26.5,boxes,Other,veg,239
+11.5,liters,Packaged Food,nonveg,34
+80.6,plates,Dairy,nonveg,97
+40.0,plates,Cooked Meal,nonveg,34
+22.2,boxes,Produce,veg,163
+19.1,pieces,Dairy,veg,9
+15.6,kg,Other,nonveg,35
+55.8,plates,Bakery,veg,58
+108.6,plates,Produce,veg,99
+124.3,plates,Produce,veg,123
+5.3,boxes,Produce,veg,33
+44.5,kg,Cooked Meal,nonveg,108
+4.8,liters,Packaged Food,nonveg,13
+131.4,plates,Dairy,nonveg,140
+29.9,boxes,Dairy,nonveg,221
+5.2,boxes,Other,veg,30
+4.8,boxes,Bakery,nonveg,41
+24.2,liters,Cooked Meal,nonveg,38
+46.2,liters,Other,nonveg,125
+29.0,kg,Cooked Meal,nonveg,77
+22.1,plates,Cooked Meal,veg,21
+23.9,boxes,Produce,veg,186
+12.1,plates,Bakery,nonveg,16
+1.1,liters,Bakery,nonveg,2
+261.8,pieces,Dairy,veg,113
+23.7,boxes,Dairy,nonveg,211
+115.5,plates,Packaged Food,veg,150
+26.1,boxes,Packaged Food,veg,312
+20.0,kg,Produce,nonveg,40
+19.7,boxes,Cooked Meal,nonveg,136
+28.5,kg,Bakery,nonveg,87
+143.8,plates,Bakery,veg,191
+25.6,liters,Dairy,nonveg,111
+14.5,liters,Dairy,veg,59
+5.1,liters,Bakery,nonveg,8
+43.2,kg,Dairy,nonveg,155
+58.2,pieces,Cooked Meal,nonveg,31
+38.8,pieces,Packaged Food,veg,40
+46.4,plates,Cooked Meal,veg,50
+205.2,pieces,Bakery,nonveg,90
+31.3,plates,Cooked Meal,nonveg,28
+126.8,pieces,Cooked Meal,veg,57
+282.8,pieces,Produce,nonveg,81
+76.5,plates,Bakery,veg,90
+8.8,boxes,Dairy,veg,74
+12.8,boxes,Cooked Meal,veg,117
+28.1,kg,Bakery,nonveg,74
+28.8,liters,Dairy,nonveg,103
+39.4,kg,Packaged Food,veg,151
+48.1,liters,Bakery,nonveg,99
+1.0,boxes,Dairy,veg,7
+3.9,liters,Produce,veg,8
+252.6,pieces,Packaged Food,nonveg,213
+3.2,liters,Other,nonveg,8
+48.6,plates,Other,veg,46
+132.4,plates,Bakery,nonveg,152
+133.2,plates,Bakery,nonveg,171
+8.1,boxes,Other,nonveg,56
+140.6,pieces,Produce,veg,41
+30.8,liters,Other,veg,76
+21.2,kg,Cooked Meal,veg,61
+119.2,plates,Packaged Food,veg,158
+44.7,kg,Other,veg,118
+249.1,pieces,Cooked Meal,nonveg,101
+25.3,boxes,Produce,veg,200
+28.2,boxes,Cooked Meal,nonveg,141
+37.4,kg,Packaged Food,veg,132
+31.5,pieces,Other,veg,13
+74.1,pieces,Dairy,veg,33
+1.2,boxes,Produce,veg,8
+26.2,boxes,Other,veg,183
+4.2,liters,Dairy,veg,16
+13.7,kg,Bakery,veg,38
+255.1,pieces,Dairy,veg,123
+103.7,plates,Cooked Meal,nonveg,96
+22.2,kg,Packaged Food,nonveg,71
+205.7,pieces,Packaged Food,veg,183
+14.6,liters,Cooked Meal,veg,33
+50.9,plates,Packaged Food,nonveg,64
+48.9,kg,Dairy,veg,209
+10.6,kg,Packaged Food,veg,36
+24.5,kg,Other,veg,64
+126.9,plates,Cooked Meal,nonveg,117
+26.5,kg,Produce,nonveg,55
+38.4,kg,Bakery,nonveg,94
+19.5,kg,Cooked Meal,veg,43
+4.0,kg,Other,veg,10
+4.0,boxes,Dairy,veg,35
+47.8,plates,Cooked Meal,veg,46
+23.2,liters,Packaged Food,veg,72
+10.8,boxes,Packaged Food,veg,155
+90.2,plates,Packaged Food,nonveg,114
+30.2,kg,Cooked Meal,veg,90
+97.4,plates,Bakery,veg,127
+147.0,pieces,Produce,nonveg,38
+7.3,kg,Bakery,veg,21
+10.0,boxes,Dairy,nonveg,96
+18.5,boxes,Bakery,nonveg,147
+157.7,pieces,Produce,veg,46
+66.2,plates,Bakery,veg,75
+39.5,liters,Bakery,veg,71
+25.7,boxes,Other,nonveg,217
+128.5,pieces,Dairy,nonveg,63
+27.7,boxes,Cooked Meal,veg,247
+23.9,liters,Other,veg,62
+12.6,boxes,Produce,veg,100
+26.8,pieces,Cooked Meal,veg,14
+19.3,boxes,Produce,veg,137
+10.8,kg,Produce,veg,21
+42.5,liters,Produce,nonveg,85
+2.1,liters,Bakery,veg,5
+33.1,liters,Cooked Meal,nonveg,52
+95.0,pieces,Cooked Meal,veg,48
+44.0,liters,Other,nonveg,123
+44.3,kg,Cooked Meal,veg,117
+10.2,boxes,Dairy,nonveg,89
+38.4,liters,Packaged Food,veg,92
+13.1,liters,Produce,nonveg,21
+256.2,pieces,Other,veg,159
+39.8,kg,Bakery,nonveg,104
+25.9,kg,Dairy,veg,104
+158.1,pieces,Dairy,nonveg,60
+160.0,pieces,Bakery,nonveg,41
+193.2,pieces,Packaged Food,nonveg,183
+11.8,kg,Dairy,veg,50
+21.8,liters,Packaged Food,nonveg,74
+140.6,plates,Packaged Food,veg,188
+22.8,kg,Bakery,nonveg,70
+23.8,liters,Produce,veg,43
+11.7,boxes,Packaged Food,nonveg,118
+117.8,pieces,Packaged Food,nonveg,112
+45.2,kg,Other,nonveg,112
+119.0,plates,Produce,veg,125
+166.1,pieces,Cooked Meal,veg,81
+13.3,liters,Produce,nonveg,24
+49.9,liters,Produce,veg,79
+6.2,plates,Other,nonveg,5
+14.7,boxes,Packaged Food,veg,214
+12.2,liters,Dairy,nonveg,44
+109.8,plates,Bakery,nonveg,111
+97.4,pieces,Packaged Food,veg,105
+13.7,boxes,Other,veg,130
+7.8,kg,Dairy,nonveg,31
+40.7,kg,Other,nonveg,87
+128.6,pieces,Produce,veg,37
+52.3,plates,Other,nonveg,43
+138.7,plates,Cooked Meal,veg,162
+147.1,plates,Produce,nonveg,168
+16.5,boxes,Bakery,veg,169
+3.7,boxes,Dairy,nonveg,32
+9.6,plates,Cooked Meal,veg,9
+45.7,liters,Bakery,veg,80
+73.7,pieces,Packaged Food,veg,72
+55.7,pieces,Cooked Meal,veg,27
+29.7,boxes,Packaged Food,veg,387
+47.8,kg,Other,nonveg,120
+16.2,liters,Bakery,veg,35
+90.2,plates,Bakery,nonveg,83
+6.8,boxes,Dairy,nonveg,64
+81.2,plates,Packaged Food,veg,121
+14.4,boxes,Dairy,nonveg,125
+21.3,boxes,Other,nonveg,159
+185.8,pieces,Other,nonveg,88
+23.4,liters,Bakery,nonveg,40
+20.3,liters,Other,veg,55
+201.7,pieces,Bakery,nonveg,72
+21.2,liters,Cooked Meal,nonveg,43
+25.7,kg,Produce,veg,48
+5.8,boxes,Produce,nonveg,38
+19.7,kg,Cooked Meal,nonveg,47
+12.5,boxes,Other,veg,106
+148.0,pieces,Bakery,nonveg,55
+36.0,kg,Cooked Meal,veg,79
+42.1,liters,Produce,veg,89
+15.4,kg,Dairy,veg,54
+8.5,kg,Cooked Meal,nonveg,19
+36.0,liters,Produce,veg,80
+20.1,kg,Packaged Food,veg,64
+18.3,boxes,Produce,veg,142
+45.5,liters,Bakery,nonveg,87
+21.7,kg,Bakery,veg,72
+48.0,kg,Bakery,veg,143
+3.2,liters,Cooked Meal,veg,5
+95.6,plates,Produce,veg,94
+4.5,boxes,Dairy,nonveg,38
+33.0,kg,Bakery,nonveg,101
+14.3,boxes,Cooked Meal,veg,137
+11.4,plates,Other,nonveg,11
+23.3,boxes,Bakery,nonveg,136
+41.5,plates,Other,veg,42
+147.3,plates,Cooked Meal,nonveg,127
+9.6,liters,Other,nonveg,18
+24.9,pieces,Other,nonveg,14
+15.6,boxes,Packaged Food,veg,193
+2.0,kg,Other,veg,5
+19.0,boxes,Bakery,veg,178
+25.4,liters,Cooked Meal,nonveg,53
+46.2,kg,Other,veg,128
+4.9,boxes,Dairy,nonveg,37
+99.0,plates,Cooked Meal,nonveg,109
+42.5,kg,Produce,veg,81
+40.3,kg,Dairy,veg,174
+26.6,liters,Other,nonveg,65
+28.7,boxes,Cooked Meal,veg,265
+7.2,liters,Cooked Meal,veg,17
+21.9,liters,Bakery,veg,50
+217.9,pieces,Packaged Food,veg,218
+175.0,pieces,Bakery,nonveg,69
+43.3,liters,Other,nonveg,70
+5.9,boxes,Produce,nonveg,39
+23.0,boxes,Packaged Food,nonveg,277
+25.8,boxes,Cooked Meal,nonveg,153
+85.2,plates,Produce,veg,90
+11.9,boxes,Produce,nonveg,85
+10.7,boxes,Dairy,veg,95
+43.2,kg,Bakery,veg,120
+124.3,pieces,Other,nonveg,51
+149.4,pieces,Other,nonveg,73
+64.3,plates,Other,veg,81
+33.2,plates,Packaged Food,veg,53
+155.3,pieces,Packaged Food,nonveg,117
+46.4,kg,Other,nonveg,108
+24.4,liters,Other,veg,67
+13.8,kg,Other,veg,33
+13.1,liters,Packaged Food,nonveg,31
+38.8,kg,Bakery,veg,107
+21.5,boxes,Other,nonveg,166
+25.1,boxes,Bakery,veg,249
+177.9,pieces,Produce,nonveg,48
+32.2,kg,Other,veg,64
+37.7,liters,Produce,nonveg,77
+41.0,kg,Produce,veg,78
+38.9,kg,Cooked Meal,veg,87
+6.1,boxes,Produce,veg,45
+24.8,liters,Bakery,veg,47
+10.8,liters,Dairy,veg,43
+13.7,liters,Other,veg,38
+130.9,plates,Other,veg,122
+5.2,kg,Bakery,nonveg,15
+74.3,plates,Cooked Meal,veg,77
+4.0,kg,Other,veg,10
+11.3,kg,Dairy,veg,45
+28.0,boxes,Cooked Meal,nonveg,184
+206.1,pieces,Packaged Food,nonveg,193
+282.6,pieces,Produce,veg,80
+242.8,pieces,Cooked Meal,nonveg,100
+22.0,boxes,Cooked Meal,nonveg,170
+47.6,kg,Dairy,nonveg,168
+187.4,pieces,Bakery,nonveg,64
+49.3,liters,Packaged Food,veg,131
+43.8,kg,Produce,nonveg,96
+18.6,boxes,Other,veg,143
+55.5,plates,Packaged Food,veg,105
+15.4,kg,Packaged Food,nonveg,44
+7.3,liters,Bakery,veg,15
+29.4,plates,Other,nonveg,24
+33.5,kg,Packaged Food,nonveg,108
+22.3,kg,Other,veg,60
+46.5,kg,Other,veg,110
+33.6,liters,Produce,nonveg,68
+46.2,kg,Other,veg,105
+279.9,pieces,Other,veg,125
+19.5,kg,Dairy,nonveg,69
+122.2,plates,Packaged Food,nonveg,136
+90.8,pieces,Bakery,veg,39
+29.1,liters,Dairy,veg,125
+175.2,pieces,Bakery,nonveg,67
+49.0,liters,Dairy,nonveg,180
+158.3,pieces,Produce,veg,44
+16.5,kg,Packaged Food,nonveg,50
+34.3,liters,Produce,nonveg,67
+16.1,kg,Other,nonveg,40
+49.8,kg,Other,nonveg,110
+21.4,boxes,Bakery,nonveg,171
+8.5,kg,Packaged Food,nonveg,26
+43.0,kg,Bakery,veg,100
+29.5,boxes,Other,nonveg,190
+53.9,plates,Cooked Meal,nonveg,40
+23.0,boxes,Other,nonveg,150
+211.8,pieces,Produce,veg,69
+4.8,boxes,Dairy,veg,43
+198.1,pieces,Cooked Meal,nonveg,77
+35.1,liters,Dairy,nonveg,127
+18.7,liters,Bakery,veg,40
+19.5,kg,Dairy,veg,92
+18.4,kg,Bakery,veg,54
+6.7,liters,Packaged Food,veg,18
+13.0,liters,Packaged Food,nonveg,36
+24.9,liters,Cooked Meal,nonveg,45
+23.6,boxes,Other,veg,137
+19.3,boxes,Other,nonveg,140
+25.0,kg,Cooked Meal,veg,63
+8.3,plates,Other,veg,7
+19.8,kg,Produce,veg,37
+17.6,boxes,Other,nonveg,134
+40.8,liters,Dairy,nonveg,154
+2.9,boxes,Cooked Meal,nonveg,23
+48.3,kg,Other,veg,105
+1.3,liters,Cooked Meal,veg,3
+33.0,liters,Cooked Meal,veg,75
+128.5,plates,Cooked Meal,nonveg,157
+290.1,pieces,Dairy,nonveg,143
+8.2,boxes,Bakery,veg,105
+25.3,plates,Produce,nonveg,25
+183.8,pieces,Packaged Food,nonveg,138
+2.8,kg,Other,veg,7
+287.4,pieces,Bakery,veg,107
+220.1,pieces,Produce,veg,63
+13.8,kg,Packaged Food,nonveg,43
+34.1,kg,Packaged Food,nonveg,103
+4.5,liters,Other,veg,11
+28.6,liters,Other,nonveg,40
+65.9,plates,Other,veg,80
+29.0,boxes,Packaged Food,veg,455
+7.1,kg,Bakery,nonveg,22
+112.0,pieces,Cooked Meal,veg,61
+261.3,pieces,Produce,veg,79
+47.6,liters,Packaged Food,nonveg,134
+29.9,liters,Cooked Meal,nonveg,62
+85.0,plates,Produce,nonveg,74
+9.4,kg,Dairy,veg,42
+74.1,plates,Produce,nonveg,65
+207.6,pieces,Bakery,veg,80
+2.5,boxes,Bakery,nonveg,19
+205.1,pieces,Other,veg,91
+153.2,pieces,Packaged Food,nonveg,150
+9.9,boxes,Produce,veg,82
+192.2,pieces,Packaged Food,veg,149
+9.1,liters,Cooked Meal,veg,24
+28.9,boxes,Dairy,veg,278
+74.6,plates,Packaged Food,veg,65
+1.7,kg,Dairy,nonveg,6
+35.4,kg,Bakery,nonveg,98
+93.1,plates,Other,veg,85
+30.3,plates,Bakery,veg,35
+25.3,kg,Produce,nonveg,49
+104.7,pieces,Bakery,veg,38
+147.5,pieces,Cooked Meal,nonveg,54
+37.2,liters,Produce,veg,69
+140.6,plates,Produce,veg,136
+11.3,boxes,Dairy,veg,94
+18.1,kg,Produce,veg,34
+18.4,liters,Other,nonveg,47
+64.6,plates,Cooked Meal,veg,70
+38.7,kg,Packaged Food,veg,135
+131.4,pieces,Produce,nonveg,41
+20.8,plates,Bakery,nonveg,18
+37.6,liters,Bakery,nonveg,75
+37.6,pieces,Cooked Meal,veg,19
+52.3,pieces,Packaged Food,veg,56
+4.4,boxes,Bakery,nonveg,35
+37.8,liters,Other,nonveg,88
+24.1,plates,Packaged Food,nonveg,40
+25.5,liters,Bakery,nonveg,44
+34.2,liters,Other,veg,70
+24.5,kg,Other,nonveg,72
+23.1,boxes,Produce,veg,162
+14.8,liters,Dairy,veg,63
+201.6,pieces,Cooked Meal,veg,88
+32.4,plates,Cooked Meal,veg,34
+6.9,liters,Dairy,veg,25
+1.9,liters,Bakery,nonveg,4
+19.6,kg,Bakery,veg,48
+21.9,liters,Bakery,nonveg,39
+98.4,plates,Cooked Meal,nonveg,88
+77.9,pieces,Produce,nonveg,23
+1.0,liters,Cooked Meal,veg,2
+27.3,boxes,Produce,nonveg,160
+8.3,boxes,Cooked Meal,veg,59
+34.5,kg,Cooked Meal,veg,87
+223.7,pieces,Bakery,nonveg,71
+39.5,plates,Dairy,nonveg,55
+5.3,liters,Produce,nonveg,11
+29.7,kg,Dairy,veg,131
+35.5,liters,Other,veg,92
+48.7,plates,Dairy,nonveg,57
+3.1,liters,Packaged Food,veg,10
+134.8,plates,Produce,nonveg,142
+4.3,kg,Packaged Food,nonveg,10
+30.4,kg,Dairy,veg,138
+3.2,liters,Other,nonveg,6
+25.3,liters,Other,nonveg,53
+29.0,plates,Dairy,veg,38
+7.0,boxes,Packaged Food,nonveg,68
+30.0,liters,Cooked Meal,veg,84
+9.8,boxes,Dairy,nonveg,82
+167.9,pieces,Bakery,nonveg,63
+193.7,pieces,Bakery,veg,80
+43.8,liters,Produce,nonveg,106
+5.2,plates,Bakery,veg,7
+52.1,plates,Produce,nonveg,59
+45.0,liters,Produce,nonveg,76
+189.7,pieces,Produce,veg,63
+80.5,pieces,Other,veg,41
+109.8,plates,Cooked Meal,veg,98
+123.4,plates,Produce,veg,90
+65.2,pieces,Bakery,nonveg,20
+12.4,liters,Packaged Food,nonveg,28
+5.3,boxes,Other,nonveg,34
+10.3,liters,Packaged Food,veg,31
+2.0,liters,Packaged Food,nonveg,6
+15.1,plates,Packaged Food,veg,24
+14.2,boxes,Cooked Meal,veg,105
+110.4,plates,Other,veg,100
+59.8,plates,Cooked Meal,veg,73
+13.2,kg,Other,veg,34
+281.9,pieces,Cooked Meal,veg,117
+42.8,kg,Cooked Meal,nonveg,86
+24.5,liters,Cooked Meal,veg,47
+146.3,pieces,Bakery,nonveg,51
+31.7,kg,Bakery,nonveg,102
+19.9,plates,Cooked Meal,nonveg,21
+45.7,liters,Packaged Food,veg,154
+71.6,pieces,Bakery,nonveg,27
+15.3,boxes,Other,veg,133
+186.6,pieces,Produce,veg,56
+269.2,pieces,Cooked Meal,veg,127
+205.4,pieces,Dairy,veg,98
+107.8,pieces,Bakery,nonveg,48
+244.2,pieces,Other,nonveg,131
+43.2,kg,Other,veg,130
+120.2,pieces,Bakery,veg,47
+4.3,boxes,Other,veg,28
+49.7,kg,Bakery,nonveg,149
+10.3,boxes,Bakery,nonveg,79
+25.0,plates,Packaged Food,nonveg,37
+21.5,liters,Other,nonveg,42
+60.8,plates,Dairy,veg,79
+21.4,boxes,Dairy,veg,193
+287.5,pieces,Cooked Meal,nonveg,133
+18.7,kg,Cooked Meal,nonveg,48
+47.5,pieces,Bakery,nonveg,15
+7.1,boxes,Dairy,veg,66
+36.9,liters,Cooked Meal,nonveg,89
+2.6,boxes,Other,nonveg,22
+9.4,plates,Packaged Food,veg,15
+13.0,liters,Produce,veg,32
+24.0,liters,Packaged Food,veg,73
+73.2,plates,Bakery,nonveg,79
+6.5,kg,Other,nonveg,13
+25.7,kg,Cooked Meal,veg,79
+27.7,boxes,Other,nonveg,207
+130.0,pieces,Dairy,veg,77
+22.6,boxes,Dairy,veg,258
+36.7,plates,Packaged Food,veg,59
+123.4,plates,Dairy,veg,190
+19.9,boxes,Packaged Food,nonveg,198
+62.4,pieces,Cooked Meal,nonveg,31
+18.8,kg,Cooked Meal,veg,48
+164.8,pieces,Bakery,veg,59
+38.1,liters,Cooked Meal,veg,79
+14.2,kg,Other,veg,41
+86.7,plates,Dairy,veg,114
+1.4,kg,Produce,nonveg,2
+152.6,pieces,Produce,nonveg,40
+17.2,liters,Produce,veg,38
+77.8,plates,Other,veg,78
+9.4,boxes,Packaged Food,veg,110
+26.7,boxes,Bakery,veg,309
+49.7,liters,Bakery,veg,110
+69.9,plates,Dairy,nonveg,89
+26.8,boxes,Dairy,veg,259
+7.1,boxes,Other,veg,55
+19.1,plates,Bakery,nonveg,20
+27.8,liters,Cooked Meal,nonveg,68
+14.2,boxes,Cooked Meal,veg,109
+25.1,pieces,Bakery,veg,9
+13.6,liters,Cooked Meal,nonveg,26
+196.8,pieces,Packaged Food,nonveg,188
+11.5,boxes,Dairy,veg,108
+25.9,boxes,Produce,nonveg,176
+59.2,plates,Produce,nonveg,53
+8.6,boxes,Other,nonveg,71
+35.3,kg,Dairy,veg,123
+42.8,kg,Dairy,veg,168
+20.0,kg,Packaged Food,veg,75
+23.8,kg,Packaged Food,nonveg,64
+9.8,kg,Packaged Food,veg,27
+6.8,boxes,Cooked Meal,nonveg,48
+21.4,boxes,Dairy,veg,210
+23.3,kg,Packaged Food,nonveg,54
+28.8,liters,Bakery,nonveg,49
+28.2,boxes,Dairy,veg,233
+11.4,liters,Packaged Food,veg,38
+8.3,boxes,Cooked Meal,nonveg,63
+9.7,boxes,Produce,veg,72
+16.2,boxes,Other,nonveg,114
+17.8,kg,Cooked Meal,nonveg,38
+18.1,liters,Produce,veg,32
+18.4,liters,Other,nonveg,45
+124.3,plates,Other,nonveg,87
+16.9,kg,Bakery,veg,46
+49.4,pieces,Other,veg,23
+13.9,kg,Produce,nonveg,26
+47.2,kg,Other,nonveg,120
+10.3,plates,Other,veg,9
+35.1,liters,Other,nonveg,83
+286.0,pieces,Bakery,veg,96
+58.7,plates,Other,veg,55
+106.4,plates,Produce,veg,115
+12.9,boxes,Other,nonveg,86
+278.3,pieces,Dairy,veg,156
+6.1,boxes,Packaged Food,nonveg,59
+192.1,pieces,Packaged Food,nonveg,162
+149.3,plates,Other,veg,152
+6.1,kg,Other,nonveg,13
+96.9,plates,Other,veg,76
+67.5,pieces,Other,nonveg,31
+21.6,plates,Packaged Food,nonveg,35
+27.3,boxes,Produce,nonveg,135
+28.2,boxes,Other,veg,232
+252.4,pieces,Produce,nonveg,60
+45.1,liters,Packaged Food,veg,133
+103.9,pieces,Bakery,nonveg,39
+17.1,boxes,Dairy,veg,134
+7.3,kg,Packaged Food,nonveg,26
+12.7,boxes,Other,veg,99
+25.7,kg,Bakery,veg,82
+127.2,plates,Other,nonveg,109
+11.0,liters,Dairy,nonveg,38
+1.6,kg,Cooked Meal,nonveg,4
+87.9,plates,Dairy,veg,106
+32.1,liters,Cooked Meal,nonveg,66
+10.5,liters,Other,nonveg,22
+20.1,boxes,Bakery,nonveg,177
+6.4,kg,Other,veg,20
+7.9,kg,Dairy,veg,31
+27.5,boxes,Cooked Meal,nonveg,218
+15.2,boxes,Bakery,veg,159
+34.7,kg,Other,veg,87
+243.5,pieces,Packaged Food,nonveg,226
+22.0,plates,Bakery,veg,27
+298.5,pieces,Produce,nonveg,82
+61.9,pieces,Dairy,veg,31
+80.1,plates,Cooked Meal,veg,81
+2.4,kg,Produce,veg,4
+36.7,liters,Bakery,veg,80
+18.1,liters,Packaged Food,veg,52
+224.8,pieces,Dairy,nonveg,89
+9.5,liters,Packaged Food,nonveg,26
+35.4,pieces,Other,nonveg,17
+22.2,liters,Bakery,nonveg,35
+24.7,boxes,Packaged Food,nonveg,241
+19.3,liters,Packaged Food,nonveg,47
+9.2,kg,Other,nonveg,24
+18.5,boxes,Dairy,nonveg,158
+62.8,plates,Other,nonveg,67
+13.0,liters,Packaged Food,nonveg,41
+47.8,pieces,Bakery,nonveg,17
+11.5,kg,Other,nonveg,27
+170.7,pieces,Dairy,veg,75
+28.5,liters,Dairy,veg,126
+88.2,plates,Other,veg,78
+63.5,pieces,Packaged Food,nonveg,50
+2.4,boxes,Cooked Meal,nonveg,18
+30.0,liters,Packaged Food,nonveg,88
+46.3,plates,Bakery,veg,47
+4.8,boxes,Cooked Meal,nonveg,29
+17.5,kg,Packaged Food,veg,69
+98.6,pieces,Packaged Food,nonveg,92
+17.1,boxes,Produce,veg,112
+150.5,pieces,Packaged Food,nonveg,160
+46.9,kg,Other,nonveg,115
+49.7,liters,Cooked Meal,veg,115
+5.9,boxes,Other,veg,52
+140.4,plates,Produce,veg,174
+37.7,pieces,Cooked Meal,veg,20
+44.1,plates,Produce,nonveg,40
+6.9,liters,Bakery,nonveg,12
+20.4,boxes,Dairy,nonveg,179
+88.8,plates,Dairy,veg,95
+3.7,boxes,Produce,veg,19
+28.4,kg,Produce,nonveg,59
+4.7,liters,Other,veg,10
+1.6,kg,Packaged Food,veg,6
+10.9,boxes,Bakery,veg,133
+115.3,plates,Dairy,nonveg,131
+137.5,plates,Bakery,veg,185
+292.6,pieces,Bakery,nonveg,118
+14.6,liters,Packaged Food,veg,39
+48.5,pieces,Bakery,veg,22
+10.2,kg,Bakery,nonveg,24
+11.2,boxes,Cooked Meal,nonveg,92
+5.4,boxes,Produce,veg,42
+2.5,boxes,Dairy,nonveg,21
+6.6,boxes,Other,nonveg,51
+18.2,boxes,Bakery,veg,157
+32.7,kg,Packaged Food,veg,111
+3.6,liters,Cooked Meal,veg,9
+44.9,plates,Cooked Meal,veg,46
+12.4,boxes,Dairy,nonveg,107
+65.7,pieces,Other,nonveg,37
+213.2,pieces,Bakery,nonveg,78
+112.2,plates,Bakery,nonveg,125
+16.4,liters,Other,veg,44
+33.6,liters,Packaged Food,veg,104
+57.4,pieces,Packaged Food,veg,57
+48.5,kg,Other,nonveg,117
+43.8,kg,Dairy,nonveg,155
+126.1,plates,Cooked Meal,nonveg,117
+114.5,plates,Dairy,veg,150
+149.7,pieces,Other,nonveg,65
+101.2,plates,Produce,nonveg,93
+268.0,pieces,Produce,nonveg,84
+21.4,plates,Other,nonveg,18
+43.0,liters,Cooked Meal,nonveg,72
+25.4,liters,Other,nonveg,59
+224.6,pieces,Packaged Food,veg,269
+29.0,boxes,Bakery,veg,328
+43.5,plates,Packaged Food,veg,57
+120.4,pieces,Other,nonveg,37
+29.4,liters,Produce,veg,70
+132.9,pieces,Other,veg,46
+291.0,pieces,Produce,veg,95
+34.4,liters,Packaged Food,nonveg,86
+24.9,liters,Dairy,nonveg,90
+138.9,pieces,Cooked Meal,veg,73
+16.0,kg,Cooked Meal,nonveg,45
+19.7,pieces,Packaged Food,veg,23
+143.3,plates,Dairy,veg,221
+298.8,pieces,Other,veg,157
+14.5,pieces,Cooked Meal,veg,8
+21.7,liters,Produce,nonveg,42
+56.1,pieces,Produce,nonveg,15
+206.6,pieces,Packaged Food,veg,211
+15.9,liters,Dairy,nonveg,62
+84.1,plates,Produce,nonveg,64
+26.8,kg,Packaged Food,veg,110
+143.2,pieces,Other,nonveg,58
+27.5,boxes,Packaged Food,veg,348
+22.9,boxes,Cooked Meal,veg,169
+23.5,plates,Bakery,nonveg,24
+12.8,plates,Dairy,nonveg,16
+40.6,kg,Other,nonveg,89
+3.5,boxes,Dairy,veg,30
+247.5,pieces,Cooked Meal,veg,167
+26.1,boxes,Dairy,nonveg,241
+26.3,kg,Dairy,veg,117
+7.5,boxes,Dairy,veg,60
+242.7,pieces,Produce,veg,58
+4.3,liters,Dairy,veg,20
+11.0,kg,Dairy,veg,53
+20.1,kg,Packaged Food,nonveg,71
+42.2,liters,Packaged Food,veg,121
+258.5,pieces,Dairy,nonveg,108
+7.9,kg,Other,veg,18
+26.1,liters,Other,veg,64
+201.9,pieces,Packaged Food,nonveg,172
+20.4,boxes,Dairy,nonveg,145
+24.6,boxes,Cooked Meal,nonveg,202
+23.4,kg,Bakery,nonveg,64
+3.1,kg,Produce,nonveg,6
+44.2,liters,Produce,nonveg,80
+107.9,pieces,Bakery,veg,43
+79.4,plates,Other,nonveg,75
+71.6,plates,Other,nonveg,70
+277.4,pieces,Bakery,nonveg,123
+18.6,boxes,Packaged Food,nonveg,225
+23.8,plates,Bakery,nonveg,23
+14.8,plates,Produce,nonveg,17
+5.7,liters,Cooked Meal,veg,15
+294.5,pieces,Packaged Food,veg,346
+45.1,liters,Other,veg,126
+31.0,kg,Packaged Food,veg,133
+22.6,kg,Cooked Meal,veg,50
+6.3,liters,Cooked Meal,nonveg,14
+29.7,boxes,Packaged Food,veg,331
+20.7,boxes,Produce,nonveg,129
+22.3,liters,Bakery,veg,35
+96.2,plates,Cooked Meal,veg,93
+2.6,kg,Other,veg,7
+54.4,plates,Packaged Food,veg,82
+32.6,plates,Other,nonveg,32
+187.5,pieces,Dairy,nonveg,105
+22.5,liters,Dairy,veg,75
+39.3,kg,Dairy,veg,130
+25.4,kg,Produce,veg,58
+46.2,liters,Cooked Meal,nonveg,98
+3.0,boxes,Produce,nonveg,24
+128.7,plates,Cooked Meal,veg,99
+62.9,plates,Dairy,nonveg,88
+140.9,plates,Cooked Meal,nonveg,138
+17.6,kg,Produce,veg,35
+27.8,liters,Cooked Meal,veg,68
+74.5,pieces,Other,veg,47
+49.1,kg,Dairy,nonveg,204
+133.7,plates,Packaged Food,veg,188
+2.7,kg,Other,veg,7
+22.1,liters,Dairy,nonveg,75
+2.3,kg,Bakery,veg,8
+103.9,plates,Bakery,nonveg,113
+21.2,boxes,Cooked Meal,nonveg,132
+4.4,boxes,Packaged Food,veg,59
+106.2,pieces,Produce,veg,35
+5.5,liters,Cooked Meal,veg,14
+148.7,plates,Dairy,veg,195
+4.8,liters,Cooked Meal,veg,11
+182.7,pieces,Cooked Meal,nonveg,89
+183.8,pieces,Bakery,veg,69
+47.0,kg,Cooked Meal,nonveg,109
+27.0,boxes,Bakery,nonveg,269
+261.3,pieces,Produce,nonveg,65
+51.2,plates,Bakery,nonveg,53
+9.1,boxes,Produce,nonveg,58
+15.9,liters,Bakery,veg,30
+48.9,liters,Other,veg,120
+28.6,boxes,Other,nonveg,258
+93.6,pieces,Produce,nonveg,27
+42.9,kg,Cooked Meal,nonveg,97
+2.3,boxes,Packaged Food,nonveg,26
+20.1,boxes,Bakery,veg,166
+140.9,plates,Cooked Meal,nonveg,125
+244.0,pieces,Dairy,nonveg,93
+130.5,plates,Produce,nonveg,107
+28.1,kg,Other,veg,89
+66.5,plates,Produce,nonveg,56
+28.6,plates,Other,nonveg,22
+14.8,liters,Bakery,veg,34
+299.6,pieces,Other,veg,152
+18.9,boxes,Dairy,veg,153
+235.8,pieces,Produce,nonveg,69
+251.6,pieces,Cooked Meal,nonveg,98
+1.5,boxes,Bakery,nonveg,14
+12.8,boxes,Produce,veg,90
+45.0,kg,Dairy,nonveg,119
+38.5,liters,Packaged Food,nonveg,96
+42.5,pieces,Produce,nonveg,11
+6.6,kg,Dairy,veg,25
+29.4,liters,Cooked Meal,nonveg,70
+9.8,pieces,Cooked Meal,nonveg,5
+92.1,plates,Produce,veg,89
+12.6,kg,Packaged Food,veg,46
+125.2,plates,Produce,nonveg,113
+12.3,pieces,Packaged Food,veg,12
+292.7,pieces,Dairy,nonveg,147
+28.2,plates,Produce,veg,26
+274.0,pieces,Cooked Meal,veg,159
+141.3,plates,Produce,nonveg,133
+100.3,plates,Packaged Food,veg,168
+48.0,kg,Other,veg,140
+83.2,plates,Bakery,nonveg,108
+100.6,plates,Cooked Meal,nonveg,108
+8.8,boxes,Dairy,nonveg,77
+240.7,pieces,Bakery,veg,88
+16.4,liters,Produce,nonveg,36
+3.3,boxes,Packaged Food,nonveg,35
+137.6,plates,Dairy,veg,162
+17.5,boxes,Packaged Food,veg,182
+117.6,plates,Bakery,veg,122
+120.4,plates,Bakery,nonveg,145
+29.0,pieces,Produce,veg,6
+27.1,boxes,Dairy,veg,284
+6.9,kg,Packaged Food,veg,24
+43.6,kg,Packaged Food,veg,176
+49.5,kg,Packaged Food,veg,201
+4.7,boxes,Packaged Food,nonveg,61
+108.2,plates,Other,veg,129
+149.1,plates,Produce,veg,175
+47.5,kg,Cooked Meal,nonveg,125
+23.0,boxes,Other,nonveg,154
+36.5,liters,Other,veg,74
+44.9,kg,Dairy,veg,158
+102.7,plates,Dairy,nonveg,110
+142.0,plates,Bakery,nonveg,162
+25.2,liters,Cooked Meal,nonveg,58
+46.4,plates,Dairy,nonveg,58
+286.3,pieces,Packaged Food,veg,366
+26.4,liters,Other,nonveg,65
+19.4,plates,Dairy,nonveg,23
+7.5,boxes,Produce,nonveg,51
+296.7,pieces,Bakery,nonveg,110
+33.3,pieces,Other,veg,12
+9.0,plates,Dairy,veg,15
+6.0,plates,Dairy,veg,6
+88.1,pieces,Cooked Meal,veg,49
+125.5,plates,Packaged Food,veg,181
+22.8,kg,Produce,veg,42
+290.7,pieces,Bakery,veg,121
+17.0,liters,Cooked Meal,veg,34
+107.5,plates,Other,veg,107
+5.9,kg,Produce,nonveg,10
+142.6,plates,Bakery,veg,147
+7.7,kg,Other,veg,15
+24.0,liters,Other,nonveg,66
+14.8,liters,Packaged Food,nonveg,44
+22.3,liters,Dairy,veg,110
+107.9,plates,Packaged Food,veg,191
+19.5,boxes,Dairy,veg,183
+132.3,plates,Packaged Food,veg,225
+24.1,boxes,Other,nonveg,141
+83.8,plates,Packaged Food,nonveg,113
+10.4,boxes,Produce,nonveg,72
+6.1,boxes,Other,veg,57
+23.4,boxes,Produce,veg,156
+20.9,boxes,Packaged Food,nonveg,252
+17.3,boxes,Bakery,veg,176
+126.3,pieces,Produce,nonveg,36
+24.8,kg,Produce,nonveg,40
+96.0,pieces,Bakery,veg,33
+118.0,plates,Bakery,veg,153
+23.7,plates,Cooked Meal,nonveg,16
+23.6,boxes,Cooked Meal,veg,175
+198.2,pieces,Produce,veg,53
+43.1,liters,Bakery,nonveg,78
+273.6,pieces,Bakery,veg,105
+2.8,liters,Other,veg,8
+77.7,plates,Cooked Meal,veg,78
+72.9,pieces,Produce,veg,21
+14.4,liters,Other,veg,41
+24.7,boxes,Other,veg,227
+4.6,kg,Produce,veg,9
+37.4,kg,Packaged Food,veg,105
+18.9,plates,Dairy,veg,22
+130.4,pieces,Dairy,nonveg,56
+14.4,kg,Other,nonveg,34
+59.6,plates,Other,nonveg,60
+48.4,kg,Packaged Food,veg,148
+60.4,plates,Other,veg,57
+23.1,boxes,Packaged Food,nonveg,248
+38.8,kg,Dairy,nonveg,124
+171.1,pieces,Packaged Food,nonveg,147
+28.5,kg,Other,veg,65
+3.4,boxes,Bakery,veg,28
+13.5,plates,Dairy,veg,20
+96.9,pieces,Packaged Food,nonveg,86
+131.4,plates,Produce,nonveg,128
+27.7,liters,Produce,nonveg,48
+15.9,boxes,Produce,nonveg,119
+21.9,kg,Other,veg,58
+9.1,liters,Cooked Meal,veg,21
+44.4,kg,Packaged Food,veg,129
+22.7,boxes,Dairy,veg,205
+1.3,boxes,Dairy,nonveg,14
+186.5,pieces,Other,nonveg,109
+25.5,plates,Produce,veg,23
+144.3,pieces,Dairy,nonveg,66
+53.5,pieces,Bakery,veg,21
+5.4,boxes,Produce,veg,33
+35.4,kg,Cooked Meal,nonveg,83
+23.0,pieces,Packaged Food,veg,24
+14.7,plates,Packaged Food,veg,18
+14.5,kg,Produce,veg,24
+58.3,plates,Packaged Food,nonveg,83
+16.2,plates,Dairy,veg,15
+14.7,kg,Bakery,veg,44
+52.9,plates,Dairy,nonveg,67
+145.2,plates,Dairy,nonveg,171
+1.1,liters,Packaged Food,veg,3
+46.5,liters,Bakery,veg,88
+4.8,kg,Packaged Food,nonveg,15
+21.8,liters,Cooked Meal,nonveg,40
+19.5,liters,Cooked Meal,nonveg,40
+10.0,boxes,Packaged Food,nonveg,94
+47.3,liters,Dairy,veg,185
+28.5,liters,Produce,nonveg,41
+33.0,kg,Other,nonveg,77
+42.9,kg,Bakery,nonveg,120
+19.7,liters,Packaged Food,veg,53
+22.7,kg,Bakery,veg,67
+273.8,pieces,Produce,veg,82
+93.0,plates,Produce,veg,102
+29.9,boxes,Packaged Food,veg,366
+189.5,pieces,Other,nonveg,106
+15.2,boxes,Other,nonveg,107
+10.5,plates,Packaged Food,veg,20
+5.1,liters,Bakery,veg,11
+32.2,kg,Cooked Meal,nonveg,78
+198.3,pieces,Dairy,veg,101
+42.0,kg,Other,nonveg,102
+26.3,liters,Other,nonveg,55
+25.3,boxes,Other,nonveg,182
+5.1,liters,Dairy,nonveg,18
+30.8,kg,Packaged Food,nonveg,95
+14.4,kg,Other,nonveg,29
+23.8,kg,Produce,nonveg,45
+46.0,kg,Packaged Food,veg,154
+16.6,kg,Bakery,veg,49
+32.3,kg,Bakery,veg,95
+16.1,kg,Packaged Food,veg,50
+3.6,liters,Bakery,nonveg,5
+87.3,pieces,Other,veg,39
+57.2,pieces,Bakery,veg,22
+83.0,pieces,Produce,nonveg,19
+125.3,plates,Produce,nonveg,116
+47.5,liters,Other,veg,112
+18.0,liters,Dairy,nonveg,64
+105.9,pieces,Other,veg,61
+156.4,pieces,Other,veg,76
+143.0,pieces,Bakery,veg,61
+7.9,liters,Other,nonveg,18
+171.3,pieces,Dairy,nonveg,68
+43.6,kg,Produce,nonveg,63
+24.3,liters,Cooked Meal,nonveg,43
+53.0,pieces,Bakery,nonveg,24
+22.5,liters,Dairy,veg,79
+14.7,boxes,Other,nonveg,97
+182.3,pieces,Bakery,nonveg,59
+21.6,liters,Cooked Meal,veg,48
+91.0,plates,Produce,nonveg,87
+143.0,plates,Produce,veg,152
+33.5,liters,Dairy,veg,135
+241.4,pieces,Cooked Meal,veg,116
+14.4,boxes,Packaged Food,veg,165
+28.7,pieces,Bakery,nonveg,10
+5.4,liters,Bakery,nonveg,10
+8.8,kg,Produce,nonveg,19
+21.3,boxes,Cooked Meal,nonveg,181
+20.0,liters,Packaged Food,veg,54
+38.9,liters,Produce,nonveg,84
+16.5,boxes,Other,nonveg,105
+7.4,boxes,Produce,veg,44
+152.9,pieces,Produce,nonveg,37
+137.6,plates,Cooked Meal,nonveg,122
+15.8,kg,Bakery,veg,45
+197.9,pieces,Cooked Meal,nonveg,83
+8.6,boxes,Packaged Food,veg,108
+20.5,liters,Packaged Food,veg,58
+198.5,pieces,Cooked Meal,veg,99
+16.6,kg,Packaged Food,veg,52
+33.0,kg,Packaged Food,nonveg,101
+23.4,boxes,Other,nonveg,167
+25.6,kg,Other,nonveg,64
+37.9,pieces,Packaged Food,nonveg,37
+1.3,kg,Packaged Food,veg,5
+33.7,plates,Other,nonveg,33
+14.5,boxes,Packaged Food,veg,143
+23.6,kg,Cooked Meal,nonveg,63
+104.6,pieces,Produce,nonveg,30
+9.8,kg,Produce,nonveg,18
+180.8,pieces,Produce,veg,55
+13.2,kg,Produce,nonveg,25
+22.1,liters,Other,nonveg,52
+208.3,pieces,Produce,nonveg,58
+10.9,plates,Other,nonveg,12
+48.3,pieces,Produce,veg,17
+10.8,boxes,Cooked Meal,veg,84
+123.2,pieces,Other,nonveg,61
+48.3,kg,Other,nonveg,131
+149.3,plates,Bakery,nonveg,146
+29.1,kg,Bakery,nonveg,72
+22.7,boxes,Bakery,nonveg,212
+45.6,kg,Other,nonveg,95
+6.5,pieces,Other,nonveg,3
+14.1,liters,Other,nonveg,39
+70.3,pieces,Dairy,veg,39
+110.6,plates,Cooked Meal,nonveg,103
+19.4,boxes,Dairy,nonveg,152
+17.7,kg,Dairy,nonveg,72
+14.4,boxes,Produce,veg,100
+13.5,liters,Other,nonveg,28
+96.6,plates,Cooked Meal,veg,87
+49.1,plates,Bakery,nonveg,52
+1.9,boxes,Produce,nonveg,12
+65.2,plates,Produce,nonveg,57
+297.0,pieces,Cooked Meal,nonveg,122
+19.1,plates,Packaged Food,veg,32
+29.0,liters,Bakery,veg,60
+11.2,boxes,Other,nonveg,88
+10.3,boxes,Bakery,nonveg,91
+71.4,pieces,Other,nonveg,34
+9.3,boxes,Packaged Food,nonveg,109
+1.1,boxes,Bakery,nonveg,10
+20.8,boxes,Produce,veg,164
+6.5,boxes,Packaged Food,nonveg,78
+25.1,plates,Cooked Meal,veg,17
+142.1,plates,Dairy,nonveg,118
+29.1,plates,Produce,veg,25
+28.1,kg,Produce,nonveg,45
+19.1,liters,Bakery,nonveg,37
+7.5,liters,Other,nonveg,16
+29.3,kg,Cooked Meal,veg,60
+48.7,liters,Packaged Food,veg,153
+43.7,kg,Dairy,nonveg,173
+37.7,kg,Other,veg,90
+26.0,boxes,Other,nonveg,213
+108.8,plates,Produce,veg,115
+68.6,plates,Dairy,veg,91
+20.6,kg,Packaged Food,nonveg,64
+23.8,boxes,Dairy,nonveg,234
+19.0,kg,Dairy,veg,87
+274.3,pieces,Other,veg,140
+140.2,pieces,Cooked Meal,veg,65
+23.0,boxes,Other,veg,165
+17.5,boxes,Produce,nonveg,130
+8.3,kg,Dairy,veg,33
+108.5,plates,Produce,nonveg,108
+24.3,liters,Produce,nonveg,41
+30.8,liters,Other,veg,80
+13.3,pieces,Packaged Food,veg,14
+18.8,kg,Dairy,nonveg,76
+74.2,plates,Dairy,nonveg,112
+26.6,liters,Other,nonveg,50
+26.3,boxes,Packaged Food,veg,272
+17.8,kg,Packaged Food,veg,63
+8.4,liters,Produce,veg,14
+25.4,liters,Cooked Meal,nonveg,45
+37.3,kg,Dairy,veg,146
+25.9,kg,Other,nonveg,61
+145.7,plates,Produce,veg,167
+40.1,liters,Bakery,nonveg,78
+34.8,liters,Bakery,veg,67
+32.0,pieces,Dairy,nonveg,15
+26.6,kg,Bakery,veg,86
+72.3,plates,Dairy,nonveg,89
+39.7,kg,Dairy,nonveg,164
+10.7,kg,Packaged Food,nonveg,37
+91.8,plates,Dairy,veg,119
+39.1,kg,Packaged Food,nonveg,128
+148.9,plates,Bakery,nonveg,164
+10.5,boxes,Produce,veg,83
+143.0,plates,Packaged Food,nonveg,183
+205.0,pieces,Bakery,nonveg,93
+37.9,pieces,Dairy,nonveg,17
+151.3,pieces,Cooked Meal,nonveg,64
+34.0,kg,Bakery,nonveg,112
+33.1,plates,Produce,veg,38
+16.1,liters,Cooked Meal,veg,33
+46.5,kg,Packaged Food,nonveg,179
+51.9,plates,Bakery,veg,65
+17.0,liters,Bakery,veg,38
+23.6,boxes,Dairy,nonveg,189
+47.8,pieces,Packaged Food,nonveg,56
+137.7,pieces,Produce,nonveg,34
+3.7,kg,Packaged Food,nonveg,13
+292.6,pieces,Packaged Food,veg,293
+33.4,liters,Other,veg,82
+12.0,pieces,Produce,nonveg,3
+120.6,plates,Dairy,veg,165
+129.2,plates,Dairy,nonveg,165
+28.6,boxes,Produce,nonveg,194
+8.2,boxes,Cooked Meal,nonveg,70
+32.3,kg,Cooked Meal,veg,80
+68.5,plates,Produce,nonveg,61
+48.9,kg,Other,nonveg,127
+26.3,boxes,Other,veg,183
+13.0,kg,Dairy,nonveg,44
+85.7,plates,Dairy,nonveg,110
+47.9,kg,Bakery,nonveg,110
+6.3,boxes,Produce,veg,38
+13.5,liters,Produce,nonveg,25
+6.8,kg,Other,veg,15
+45.7,kg,Packaged Food,veg,170
+171.9,pieces,Dairy,veg,112
+46.0,plates,Produce,nonveg,42
+28.7,kg,Produce,veg,69
+29.1,liters,Dairy,veg,112
+114.0,plates,Packaged Food,veg,173
+26.8,boxes,Produce,nonveg,151
+4.6,liters,Other,nonveg,10
+12.6,boxes,Dairy,veg,103
+1.9,kg,Produce,nonveg,4
+27.1,liters,Produce,nonveg,56
+44.8,liters,Other,nonveg,99
+16.1,liters,Bakery,veg,27
+39.2,kg,Cooked Meal,veg,70
+199.2,pieces,Produce,veg,55
+130.2,pieces,Bakery,veg,50
+45.5,pieces,Bakery,veg,23
+2.2,kg,Packaged Food,nonveg,8
+14.0,boxes,Bakery,veg,116
+38.8,liters,Packaged Food,veg,110
+28.6,plates,Bakery,veg,33
+37.3,kg,Bakery,nonveg,77
+49.3,liters,Packaged Food,veg,193
+80.3,pieces,Dairy,nonveg,41
+12.6,boxes,Cooked Meal,nonveg,101
+284.0,pieces,Cooked Meal,nonveg,139
+299.9,pieces,Other,veg,134
+1.5,boxes,Cooked Meal,nonveg,13
+42.5,kg,Produce,veg,81
+23.6,plates,Bakery,veg,31
+43.5,kg,Cooked Meal,veg,125
+187.2,pieces,Other,nonveg,91
+112.6,plates,Bakery,veg,120
+44.1,liters,Other,nonveg,107
+20.8,liters,Packaged Food,nonveg,60
+13.4,pieces,Produce,nonveg,4
+45.8,kg,Packaged Food,veg,161
+115.6,plates,Cooked Meal,nonveg,105
+45.0,kg,Cooked Meal,nonveg,96
+4.3,boxes,Cooked Meal,veg,23
+25.9,boxes,Dairy,veg,245
+24.3,kg,Other,nonveg,60
+143.8,plates,Produce,nonveg,125
+25.1,kg,Other,nonveg,62
+40.5,liters,Bakery,veg,70
+37.4,liters,Bakery,veg,73
+12.1,kg,Dairy,veg,44
+214.6,pieces,Bakery,nonveg,67
+115.2,plates,Dairy,nonveg,143
+115.6,pieces,Bakery,nonveg,48
+24.0,boxes,Cooked Meal,veg,222
+32.1,kg,Bakery,veg,101
+173.8,pieces,Packaged Food,veg,161
+190.5,pieces,Packaged Food,veg,203
+31.4,liters,Packaged Food,nonveg,74
+22.6,boxes,Dairy,veg,187
+80.3,pieces,Produce,veg,21
+101.2,plates,Packaged Food,nonveg,132
+235.7,pieces,Dairy,veg,107
+5.6,kg,Packaged Food,veg,24
+23.3,plates,Cooked Meal,nonveg,21
+133.7,pieces,Produce,nonveg,39
+41.2,liters,Dairy,nonveg,151
+42.2,liters,Dairy,veg,169
+171.1,pieces,Other,veg,87
+121.0,plates,Dairy,veg,148
+8.8,liters,Dairy,nonveg,35
+42.3,liters,Other,veg,106
+9.1,boxes,Dairy,veg,76
+270.8,pieces,Packaged Food,nonveg,311
+217.9,pieces,Packaged Food,veg,208
+13.3,kg,Produce,veg,24
+13.6,plates,Other,veg,13
+24.6,liters,Packaged Food,veg,86
+19.7,boxes,Bakery,veg,250
+41.0,plates,Packaged Food,veg,58
+7.1,liters,Produce,nonveg,14
+34.8,plates,Other,veg,37
+26.5,kg,Produce,veg,57
+12.4,kg,Dairy,nonveg,36
+27.3,plates,Dairy,nonveg,35
+285.1,pieces,Other,nonveg,160
+21.9,kg,Produce,nonveg,43
+7.5,boxes,Bakery,nonveg,92
+40.0,plates,Dairy,nonveg,60
+13.2,boxes,Other,nonveg,82
+193.9,pieces,Produce,nonveg,44
+29.5,boxes,Produce,nonveg,199
+11.8,liters,Packaged Food,nonveg,33
+299.2,pieces,Packaged Food,veg,318
+93.0,plates,Dairy,nonveg,98
+18.4,boxes,Other,veg,121
+22.0,plates,Cooked Meal,veg,19
+245.5,pieces,Bakery,nonveg,90
+17.6,boxes,Other,nonveg,125
+40.8,kg,Dairy,nonveg,128
+28.8,kg,Other,veg,61
+91.2,pieces,Cooked Meal,veg,44
+246.4,pieces,Packaged Food,nonveg,230
+86.6,pieces,Produce,veg,27
+66.8,pieces,Other,veg,30
+227.2,pieces,Dairy,nonveg,106
+18.2,kg,Packaged Food,nonveg,54
+41.6,liters,Dairy,nonveg,177
+19.0,boxes,Other,nonveg,156
+10.9,liters,Other,nonveg,27
+22.9,boxes,Produce,nonveg,131
+37.9,pieces,Bakery,veg,12
+114.7,plates,Other,nonveg,92
+31.3,liters,Dairy,nonveg,121
+128.6,plates,Other,nonveg,121
+122.0,pieces,Bakery,nonveg,47
+100.5,pieces,Other,veg,49
+8.1,boxes,Bakery,veg,98
+25.2,boxes,Cooked Meal,veg,264
+22.6,liters,Bakery,veg,46
+43.0,liters,Produce,veg,81
+17.1,boxes,Packaged Food,nonveg,204
+96.0,plates,Bakery,nonveg,106
+242.0,pieces,Packaged Food,nonveg,220
+27.7,pieces,Bakery,nonveg,11
+43.1,liters,Other,nonveg,108
+19.0,plates,Dairy,veg,25
+4.0,boxes,Dairy,nonveg,34
+72.5,plates,Produce,veg,67
+31.3,kg,Dairy,nonveg,100
+28.4,kg,Bakery,nonveg,79
+260.9,pieces,Cooked Meal,nonveg,133
+284.5,pieces,Cooked Meal,nonveg,150
+22.1,kg,Other,nonveg,51
+16.2,liters,Packaged Food,nonveg,42
+73.6,pieces,Other,nonveg,35
+43.3,liters,Packaged Food,nonveg,103
+29.8,kg,Dairy,nonveg,110
+110.9,plates,Cooked Meal,nonveg,97
+49.0,liters,Other,veg,129
+36.7,kg,Bakery,nonveg,65
+47.4,kg,Produce,veg,70
+21.2,boxes,Packaged Food,nonveg,203
+33.3,pieces,Bakery,veg,12
+6.4,boxes,Produce,veg,51
+18.2,liters,Packaged Food,veg,53
+2.0,kg,Packaged Food,nonveg,6
+34.5,kg,Dairy,veg,139
+17.0,kg,Dairy,veg,68
+43.1,kg,Produce,nonveg,85
+16.5,boxes,Dairy,veg,145
+30.4,kg,Produce,veg,47
+40.9,liters,Other,veg,91
+46.8,kg,Packaged Food,veg,190
+36.8,pieces,Cooked Meal,nonveg,15
+45.1,liters,Other,veg,94
+278.9,pieces,Dairy,nonveg,129
+28.4,boxes,Dairy,nonveg,230
+75.6,pieces,Bakery,veg,29
+3.0,liters,Packaged Food,nonveg,11
+127.9,plates,Packaged Food,veg,215
+228.3,pieces,Cooked Meal,nonveg,99
+9.5,boxes,Bakery,veg,88
+13.6,boxes,Other,nonveg,102
+184.9,pieces,Cooked Meal,nonveg,86
+23.4,boxes,Produce,nonveg,144
+16.0,liters,Cooked Meal,veg,30
+97.9,plates,Dairy,veg,126
+60.5,pieces,Cooked Meal,nonveg,24
+37.2,kg,Dairy,nonveg,127
+5.8,kg,Produce,veg,11
+4.6,liters,Bakery,nonveg,9
+11.6,plates,Other,veg,13
+46.3,liters,Packaged Food,veg,151
+41.5,liters,Produce,nonveg,77
+5.5,boxes,Produce,veg,33
+6.9,boxes,Produce,nonveg,40
+208.6,pieces,Other,nonveg,86
+13.4,liters,Produce,nonveg,26
+21.2,boxes,Cooked Meal,veg,141
+6.6,kg,Bakery,veg,21
+27.3,kg,Packaged Food,veg,105
+16.6,boxes,Other,nonveg,143
+20.7,plates,Produce,nonveg,22
+10.8,kg,Bakery,nonveg,34
+24.5,kg,Dairy,nonveg,92
+38.4,liters,Packaged Food,veg,118
+31.2,liters,Cooked Meal,nonveg,59
+38.7,kg,Dairy,veg,159
+172.8,pieces,Other,veg,95
+23.6,liters,Produce,nonveg,42
+19.6,kg,Other,nonveg,51
+17.5,liters,Bakery,veg,33
+26.3,boxes,Other,veg,228
+47.3,pieces,Dairy,veg,25
+34.6,kg,Produce,veg,61
+19.1,liters,Dairy,nonveg,76
+1.3,kg,Bakery,veg,4
+129.3,plates,Packaged Food,veg,194
+2.0,kg,Other,veg,5
+20.9,boxes,Dairy,nonveg,152
+20.8,boxes,Packaged Food,veg,229
+27.7,boxes,Other,nonveg,189
+7.5,boxes,Bakery,nonveg,66
+113.6,pieces,Packaged Food,veg,135
+5.2,boxes,Cooked Meal,nonveg,31
+7.1,liters,Dairy,nonveg,27
+282.9,pieces,Other,veg,126
+28.6,boxes,Other,nonveg,223
+101.2,pieces,Packaged Food,nonveg,79
+35.9,liters,Bakery,veg,80
+45.1,liters,Dairy,nonveg,134
+68.0,pieces,Packaged Food,nonveg,59
+16.7,boxes,Bakery,veg,125
+6.8,boxes,Dairy,veg,66
+100.6,plates,Produce,veg,112
+19.9,kg,Packaged Food,veg,66
+49.2,liters,Other,nonveg,103
+5.4,boxes,Other,veg,35
+26.2,boxes,Produce,veg,218
+103.0,plates,Produce,veg,124
+1.4,kg,Cooked Meal,veg,4
+64.9,pieces,Cooked Meal,nonveg,29
+42.2,liters,Bakery,nonveg,64
+10.8,boxes,Dairy,nonveg,107
+34.9,pieces,Bakery,nonveg,10
+6.8,liters,Bakery,nonveg,11
+17.3,boxes,Dairy,veg,136
+33.5,liters,Produce,veg,58
+22.9,boxes,Bakery,veg,247
+23.2,boxes,Packaged Food,veg,303
+177.5,pieces,Dairy,nonveg,90
+133.4,plates,Packaged Food,nonveg,227
+57.3,pieces,Cooked Meal,veg,25
+48.1,kg,Bakery,veg,126
+109.6,pieces,Produce,veg,37
+148.8,plates,Dairy,nonveg,175
+156.5,pieces,Produce,veg,59
+27.3,boxes,Cooked Meal,nonveg,195
+13.9,liters,Cooked Meal,nonveg,31
+10.7,boxes,Produce,veg,75
+37.0,liters,Cooked Meal,veg,91
+2.0,boxes,Packaged Food,nonveg,22
+104.0,pieces,Other,nonveg,52
+4.8,boxes,Packaged Food,nonveg,41
+149.2,pieces,Produce,veg,44
+43.2,kg,Other,nonveg,126
+40.5,kg,Cooked Meal,veg,105
+29.0,kg,Produce,veg,60
+1.5,kg,Bakery,veg,5
+29.6,kg,Dairy,veg,121
+185.7,pieces,Packaged Food,veg,197
+5.5,kg,Other,veg,14
+39.8,kg,Cooked Meal,nonveg,92
+19.1,boxes,Cooked Meal,nonveg,146
+21.5,boxes,Bakery,veg,175
+135.5,pieces,Packaged Food,veg,136
+9.6,kg,Dairy,veg,39
+106.5,plates,Dairy,veg,147
+10.2,kg,Other,veg,21
+18.4,boxes,Bakery,nonveg,226
+130.8,pieces,Dairy,veg,71
+14.8,kg,Dairy,nonveg,45
+4.1,kg,Bakery,veg,11
+20.5,boxes,Dairy,veg,214
+29.3,boxes,Other,veg,223
+87.5,plates,Produce,veg,79
+110.6,pieces,Other,nonveg,53
+16.8,boxes,Produce,nonveg,97
+29.8,liters,Other,veg,83
+27.8,boxes,Packaged Food,nonveg,316
+14.1,boxes,Packaged Food,nonveg,175
+39.6,kg,Packaged Food,veg,160
+18.9,liters,Packaged Food,nonveg,42
+11.6,liters,Bakery,veg,25
+5.3,boxes,Cooked Meal,nonveg,38
+41.7,liters,Packaged Food,nonveg,118
+61.0,pieces,Dairy,veg,27
+48.5,liters,Packaged Food,nonveg,122
+24.7,pieces,Cooked Meal,veg,12
+26.4,liters,Produce,veg,59
+25.0,liters,Packaged Food,nonveg,80
+185.4,pieces,Produce,nonveg,49
+17.7,liters,Dairy,nonveg,57
+23.6,pieces,Bakery,nonveg,10
+77.6,pieces,Packaged Food,nonveg,84
+17.1,boxes,Produce,nonveg,103
+271.0,pieces,Dairy,veg,163
+40.9,liters,Dairy,veg,156
+26.8,boxes,Bakery,nonveg,223
+5.0,liters,Packaged Food,nonveg,17
+2.9,boxes,Packaged Food,nonveg,30
+42.5,liters,Produce,nonveg,82
+7.5,boxes,Cooked Meal,veg,67
+23.7,boxes,Dairy,veg,214
+18.5,boxes,Produce,nonveg,93
+15.5,liters,Other,veg,37
+13.2,liters,Cooked Meal,nonveg,23
+65.3,pieces,Cooked Meal,nonveg,34
+32.9,kg,Produce,veg,66
+31.7,liters,Packaged Food,nonveg,83
+38.2,liters,Dairy,nonveg,151
+15.0,liters,Produce,nonveg,29
+47.8,liters,Dairy,nonveg,206
+5.1,boxes,Dairy,nonveg,49
+19.2,boxes,Other,veg,142
+98.3,plates,Produce,veg,89
+133.1,plates,Produce,veg,157
+27.9,boxes,Bakery,veg,297
+26.6,liters,Bakery,veg,58
+28.9,pieces,Produce,nonveg,8
+20.6,kg,Produce,nonveg,42
+40.9,liters,Packaged Food,veg,129
+38.4,liters,Packaged Food,veg,122
+12.6,plates,Cooked Meal,veg,12
+3.1,liters,Other,nonveg,7
+16.8,liters,Bakery,nonveg,34
+15.8,boxes,Other,veg,126
+2.2,boxes,Other,veg,18
+12.2,kg,Dairy,veg,43
+78.8,plates,Cooked Meal,nonveg,73
+5.4,boxes,Bakery,veg,63
+169.1,pieces,Dairy,nonveg,78
+25.2,boxes,Dairy,veg,227
+120.8,pieces,Bakery,nonveg,40
+13.5,pieces,Other,nonveg,5
+6.4,boxes,Dairy,veg,52
+22.5,boxes,Cooked Meal,veg,190
+266.6,pieces,Dairy,veg,126
+21.0,pieces,Produce,nonveg,5
+16.2,liters,Produce,veg,29
+11.1,liters,Bakery,nonveg,23
+18.5,boxes,Produce,nonveg,114
+17.3,boxes,Bakery,nonveg,147
+44.3,kg,Bakery,veg,179
+129.3,plates,Cooked Meal,veg,163
+22.1,boxes,Produce,nonveg,129
+19.0,kg,Bakery,veg,46
+87.6,pieces,Other,veg,33
+38.8,kg,Other,nonveg,97
+4.5,boxes,Produce,veg,30
+9.6,kg,Other,nonveg,25
+44.2,plates,Packaged Food,nonveg,69
+14.2,plates,Other,nonveg,13
+2.1,boxes,Packaged Food,veg,23
+6.1,boxes,Packaged Food,nonveg,85
+35.8,kg,Other,nonveg,84
+24.3,boxes,Other,veg,213
+40.7,liters,Bakery,nonveg,76
+28.4,kg,Other,nonveg,61
+18.8,kg,Other,nonveg,34
+247.1,pieces,Dairy,nonveg,101
+51.5,plates,Produce,veg,50
+56.3,pieces,Other,nonveg,23
+245.2,pieces,Produce,veg,79
+57.2,plates,Packaged Food,nonveg,67
+195.4,pieces,Bakery,nonveg,77
+134.0,plates,Packaged Food,veg,171
+27.5,liters,Other,nonveg,77
+48.9,liters,Other,veg,129
+44.2,kg,Packaged Food,nonveg,112
+80.3,plates,Dairy,veg,96
+34.5,liters,Dairy,veg,132
+10.4,boxes,Produce,veg,77
+36.8,plates,Packaged Food,nonveg,46
+7.5,boxes,Produce,veg,50
+44.8,liters,Other,veg,106
+8.1,kg,Dairy,nonveg,38
+24.9,boxes,Bakery,nonveg,259
+2.2,kg,Dairy,veg,9
+13.4,kg,Bakery,veg,41
+20.2,boxes,Cooked Meal,nonveg,173
+7.0,boxes,Produce,nonveg,46
+97.1,plates,Packaged Food,nonveg,114
+11.2,boxes,Cooked Meal,nonveg,74
+22.8,boxes,Produce,nonveg,149
+142.6,plates,Dairy,nonveg,149
+12.0,boxes,Other,veg,115
+16.8,boxes,Cooked Meal,nonveg,118
+23.3,liters,Cooked Meal,veg,51
+16.2,kg,Packaged Food,nonveg,48
+18.8,boxes,Other,veg,173
+4.4,kg,Dairy,nonveg,18
+21.2,boxes,Bakery,nonveg,154
+29.7,kg,Other,nonveg,80
+30.2,plates,Other,nonveg,22
+130.9,pieces,Cooked Meal,nonveg,64
+10.8,liters,Other,veg,27
+3.1,liters,Other,nonveg,7
+43.4,liters,Bakery,nonveg,70
+3.9,boxes,Other,veg,29
+22.5,liters,Bakery,veg,39
+97.1,plates,Cooked Meal,nonveg,102
+2.0,boxes,Cooked Meal,nonveg,12
+13.9,kg,Cooked Meal,veg,37
+123.4,pieces,Other,nonveg,70
+8.9,kg,Bakery,veg,23
+22.9,liters,Dairy,veg,102
+29.2,boxes,Produce,veg,204
+6.7,liters,Other,nonveg,17
+1.5,liters,Produce,nonveg,3
+21.3,plates,Cooked Meal,veg,20
+99.3,pieces,Cooked Meal,veg,43
+6.5,boxes,Bakery,veg,56
+28.1,liters,Cooked Meal,nonveg,58
+26.2,plates,Other,veg,29
+17.4,boxes,Cooked Meal,veg,153
+28.2,boxes,Bakery,nonveg,274
+39.3,kg,Packaged Food,nonveg,113
+20.1,liters,Cooked Meal,nonveg,33
+31.1,liters,Other,nonveg,61
+8.0,boxes,Dairy,veg,62
+13.1,boxes,Cooked Meal,veg,103
+38.9,kg,Dairy,veg,170
+9.8,boxes,Produce,nonveg,65
+138.3,plates,Dairy,nonveg,179
+14.6,boxes,Packaged Food,veg,157
+16.4,boxes,Cooked Meal,nonveg,117
+263.1,pieces,Other,nonveg,118
+50.4,plates,Dairy,veg,80
+48.6,liters,Dairy,nonveg,153
+87.2,pieces,Bakery,nonveg,27
+121.3,plates,Bakery,veg,131
+207.7,pieces,Other,veg,94
+29.5,liters,Produce,nonveg,61
+32.3,kg,Bakery,nonveg,94
+19.4,liters,Produce,nonveg,43
+28.0,boxes,Packaged Food,nonveg,276
+41.6,plates,Produce,veg,43
+5.5,plates,Packaged Food,nonveg,8
+15.8,boxes,Packaged Food,nonveg,220
+3.5,liters,Packaged Food,nonveg,7
+22.4,kg,Dairy,nonveg,95
+9.9,kg,Produce,veg,17
+14.6,kg,Cooked Meal,veg,43
+23.5,plates,Dairy,nonveg,33
+44.7,liters,Packaged Food,veg,149
+6.5,kg,Dairy,veg,31
+7.7,boxes,Produce,veg,52
+139.5,plates,Dairy,nonveg,158
+115.5,plates,Cooked Meal,nonveg,114
+16.7,boxes,Bakery,veg,179
+122.4,plates,Dairy,nonveg,148
+42.4,kg,Cooked Meal,veg,109
+14.7,liters,Bakery,veg,33
+22.3,liters,Cooked Meal,nonveg,52
+5.9,liters,Packaged Food,veg,15
+13.8,boxes,Cooked Meal,nonveg,101
+16.7,boxes,Dairy,veg,133
+22.4,liters,Produce,nonveg,44
+25.3,boxes,Cooked Meal,nonveg,172
+8.1,liters,Dairy,nonveg,36
+23.9,boxes,Other,veg,212
+18.3,liters,Bakery,nonveg,33
+28.9,boxes,Bakery,nonveg,316
+98.6,plates,Other,veg,116
+11.4,boxes,Cooked Meal,nonveg,90
+22.0,boxes,Cooked Meal,nonveg,169
+84.4,pieces,Produce,veg,25
+5.9,boxes,Produce,veg,46
+127.7,plates,Dairy,veg,143
+229.4,pieces,Packaged Food,veg,281
+41.3,plates,Cooked Meal,veg,47
+49.0,pieces,Dairy,nonveg,24
+16.3,liters,Bakery,nonveg,33
+43.7,kg,Dairy,veg,155
+27.8,liters,Other,nonveg,57
+1.8,liters,Packaged Food,veg,6
+14.2,kg,Cooked Meal,veg,34
+118.0,plates,Bakery,veg,126
+13.0,liters,Bakery,veg,25
+231.1,pieces,Cooked Meal,veg,113
+7.6,kg,Dairy,nonveg,28
+25.5,boxes,Cooked Meal,veg,206
+72.0,plates,Produce,nonveg,77
+36.0,liters,Packaged Food,veg,117
+7.7,kg,Cooked Meal,nonveg,20
+20.6,boxes,Produce,nonveg,117
+144.5,plates,Packaged Food,nonveg,218
+226.7,pieces,Dairy,nonveg,92
+24.3,boxes,Dairy,veg,215
+42.3,kg,Bakery,nonveg,139
+11.8,boxes,Packaged Food,nonveg,153
+22.8,boxes,Produce,veg,167
+19.8,boxes,Bakery,veg,238
+5.1,boxes,Produce,veg,43
+14.5,boxes,Produce,nonveg,79
+141.7,pieces,Packaged Food,veg,137
+19.3,kg,Bakery,nonveg,54
+26.7,boxes,Produce,nonveg,178
+17.0,pieces,Produce,nonveg,5
+17.2,kg,Packaged Food,nonveg,52
+37.5,kg,Cooked Meal,veg,106
+12.3,pieces,Dairy,veg,6
+10.7,boxes,Cooked Meal,nonveg,90
+19.0,boxes,Dairy,nonveg,156
+133.1,plates,Dairy,veg,180
+20.3,boxes,Packaged Food,veg,197
+46.7,kg,Dairy,veg,176
+220.8,pieces,Packaged Food,nonveg,194
+14.5,kg,Bakery,nonveg,38
+15.8,kg,Bakery,veg,51
+40.2,liters,Dairy,nonveg,145
+29.7,boxes,Bakery,nonveg,298
+36.6,kg,Bakery,nonveg,137
+45.8,liters,Cooked Meal,nonveg,101
+40.8,kg,Cooked Meal,nonveg,108
+128.3,plates,Produce,nonveg,129
+96.6,plates,Dairy,nonveg,113
+101.8,plates,Produce,veg,110
+71.7,pieces,Other,veg,31
+8.9,boxes,Cooked Meal,nonveg,72
+28.6,boxes,Other,veg,220
+248.1,pieces,Produce,veg,58
+45.4,liters,Bakery,nonveg,77
+64.8,plates,Cooked Meal,nonveg,52
+9.0,kg,Produce,veg,20
+46.4,kg,Packaged Food,nonveg,167
+24.2,liters,Packaged Food,nonveg,70
+39.9,pieces,Cooked Meal,nonveg,19
+12.8,boxes,Packaged Food,veg,191
+185.1,pieces,Bakery,veg,77
+128.7,plates,Produce,nonveg,126
+40.0,kg,Cooked Meal,veg,115
+49.6,kg,Packaged Food,veg,175
+1.9,boxes,Cooked Meal,veg,14
+16.9,pieces,Other,veg,10
+16.5,pieces,Produce,veg,3
+39.7,kg,Dairy,veg,131
+8.8,boxes,Packaged Food,veg,99
+25.1,plates,Cooked Meal,nonveg,28
+27.8,plates,Packaged Food,nonveg,39
+104.9,plates,Packaged Food,veg,135
+20.3,boxes,Cooked Meal,nonveg,138
+47.6,plates,Produce,nonveg,35
+24.4,boxes,Other,nonveg,185
+76.0,pieces,Produce,veg,31
+4.9,liters,Bakery,veg,9
+5.3,boxes,Cooked Meal,veg,41
+207.9,pieces,Cooked Meal,nonveg,80
+28.0,boxes,Packaged Food,veg,305
+140.9,plates,Other,nonveg,134
+120.3,pieces,Cooked Meal,veg,68
+2.5,kg,Produce,veg,5
+20.1,boxes,Bakery,nonveg,171
+44.2,pieces,Packaged Food,nonveg,35
+7.2,pieces,Packaged Food,veg,9
+32.5,pieces,Bakery,nonveg,13
+26.1,liters,Cooked Meal,veg,53
+217.6,pieces,Packaged Food,veg,179
+241.1,pieces,Other,nonveg,122
+35.9,pieces,Produce,veg,11
+17.3,liters,Bakery,veg,24
+82.0,plates,Other,nonveg,98
+68.1,plates,Dairy,veg,67
+48.2,kg,Other,nonveg,102
+17.3,kg,Packaged Food,nonveg,53
+73.8,plates,Packaged Food,veg,133
+138.8,plates,Dairy,veg,146
+14.0,liters,Dairy,nonveg,61
+62.2,plates,Bakery,nonveg,59
+10.9,plates,Cooked Meal,veg,12
+3.3,kg,Packaged Food,nonveg,10
+9.8,pieces,Cooked Meal,nonveg,5
+151.5,pieces,Other,veg,65
+39.2,liters,Dairy,nonveg,168
+30.7,plates,Packaged Food,nonveg,33
+34.6,liters,Other,veg,100
+7.4,kg,Packaged Food,veg,28
+198.9,pieces,Other,veg,94
+18.7,liters,Packaged Food,veg,50
+27.5,pieces,Produce,veg,9
+39.2,liters,Cooked Meal,veg,91
+38.5,liters,Produce,veg,71
+15.0,boxes,Dairy,veg,151
+110.1,pieces,Dairy,veg,58
+110.2,plates,Bakery,nonveg,127
+9.0,kg,Dairy,veg,33
+74.4,plates,Other,veg,83
+105.4,pieces,Other,veg,45
+35.8,plates,Cooked Meal,nonveg,37
+117.2,plates,Bakery,nonveg,129
+28.3,liters,Other,nonveg,62
+19.6,boxes,Packaged Food,nonveg,219
+29.0,liters,Packaged Food,veg,90
+127.6,pieces,Cooked Meal,nonveg,68
+42.3,kg,Packaged Food,veg,108
+91.0,plates,Dairy,veg,101
+189.4,pieces,Dairy,veg,97
+97.1,pieces,Cooked Meal,veg,51
+33.6,kg,Cooked Meal,nonveg,70
+299.8,pieces,Bakery,nonveg,105
+15.9,plates,Cooked Meal,nonveg,18
+11.7,pieces,Produce,nonveg,4
+46.6,kg,Other,veg,115
+57.6,plates,Dairy,veg,81
+58.9,pieces,Produce,veg,19
+38.6,plates,Bakery,veg,45
+122.7,plates,Dairy,veg,196
+136.4,plates,Dairy,nonveg,158
+46.0,kg,Packaged Food,nonveg,141
+14.2,kg,Packaged Food,nonveg,48
+44.7,kg,Dairy,veg,181
+12.8,boxes,Cooked Meal,nonveg,99
+17.4,liters,Dairy,veg,73
+96.5,plates,Bakery,veg,126
+37.2,liters,Other,veg,94
+148.5,plates,Other,veg,170
+76.4,plates,Produce,veg,77
+11.3,kg,Bakery,nonveg,30
+45.2,pieces,Dairy,nonveg,19
+8.8,boxes,Dairy,nonveg,59
+19.8,boxes,Other,nonveg,121
+20.9,kg,Packaged Food,veg,76
+123.1,plates,Bakery,veg,160
+7.5,kg,Dairy,veg,42
+34.5,kg,Other,veg,95
+48.0,liters,Bakery,nonveg,75
+21.3,kg,Other,veg,49
+8.1,liters,Produce,nonveg,14
+116.7,pieces,Produce,nonveg,26
+200.6,pieces,Dairy,nonveg,96
+261.6,pieces,Packaged Food,veg,248
+25.0,liters,Other,nonveg,57
+5.6,boxes,Cooked Meal,nonveg,43
+6.9,boxes,Cooked Meal,nonveg,55
+130.7,pieces,Produce,veg,42
+18.0,boxes,Cooked Meal,veg,130
+42.1,liters,Packaged Food,nonveg,133
+146.7,pieces,Packaged Food,veg,138
+7.3,boxes,Bakery,nonveg,69
+20.9,plates,Dairy,veg,26
+43.2,kg,Other,nonveg,85
+11.0,pieces,Dairy,nonveg,4
+243.9,pieces,Bakery,nonveg,81
+96.0,plates,Other,veg,97
+172.5,pieces,Cooked Meal,nonveg,79
+6.4,boxes,Cooked Meal,veg,50
+177.9,pieces,Packaged Food,nonveg,132
+3.8,boxes,Other,nonveg,26
+258.0,pieces,Bakery,veg,105
+16.4,boxes,Produce,veg,100
+6.1,kg,Dairy,veg,25
+43.5,liters,Bakery,nonveg,83
+34.4,kg,Other,veg,96
+7.4,boxes,Dairy,veg,68
+275.9,pieces,Cooked Meal,veg,153
+32.5,kg,Packaged Food,nonveg,125
+185.5,pieces,Cooked Meal,veg,78
+18.0,pieces,Cooked Meal,veg,8
+41.0,kg,Other,nonveg,81
+3.9,boxes,Bakery,nonveg,33
+131.0,pieces,Dairy,veg,65
+169.1,pieces,Produce,nonveg,51
+101.8,plates,Other,veg,119
+12.5,liters,Bakery,veg,27
+15.5,liters,Bakery,veg,32
+18.9,boxes,Cooked Meal,veg,180
+31.7,liters,Other,nonveg,76
+20.9,boxes,Produce,veg,151
+19.4,kg,Packaged Food,veg,64
+6.3,liters,Dairy,nonveg,23
+13.6,boxes,Bakery,veg,125
+36.0,liters,Other,nonveg,78
+133.5,plates,Dairy,nonveg,121
+143.3,plates,Bakery,veg,147
+81.8,pieces,Packaged Food,nonveg,81
+20.9,kg,Bakery,veg,56
+120.5,plates,Cooked Meal,veg,133
+37.1,kg,Bakery,veg,86
+27.4,boxes,Dairy,nonveg,216
+26.4,liters,Dairy,veg,97
+25.9,liters,Bakery,veg,51
+40.0,plates,Dairy,veg,47
+13.8,kg,Dairy,nonveg,49
+3.2,liters,Dairy,veg,10
+26.4,liters,Bakery,veg,54
+13.2,boxes,Dairy,veg,115
+20.8,boxes,Produce,veg,140
+38.5,kg,Produce,veg,80
+5.1,kg,Other,veg,10
+17.0,plates,Bakery,veg,23
+2.7,boxes,Cooked Meal,nonveg,25
+109.3,plates,Other,veg,121
+37.9,kg,Other,nonveg,87
+27.7,liters,Produce,veg,61
+15.2,boxes,Dairy,nonveg,144
+41.4,liters,Cooked Meal,veg,87
+143.3,pieces,Cooked Meal,nonveg,77
+1.8,boxes,Dairy,nonveg,15
+17.9,liters,Produce,nonveg,33
+36.5,kg,Produce,nonveg,66
+39.2,plates,Packaged Food,veg,63
+297.2,pieces,Bakery,veg,116
+36.8,liters,Produce,nonveg,70
+3.6,kg,Dairy,nonveg,14
+94.6,plates,Dairy,nonveg,127
+23.2,plates,Cooked Meal,veg,28
+25.2,boxes,Cooked Meal,nonveg,200
+42.9,plates,Cooked Meal,veg,42
+25.4,liters,Other,nonveg,41
+59.8,plates,Bakery,veg,73
+8.0,boxes,Cooked Meal,nonveg,50
+35.1,kg,Other,veg,81
+64.1,plates,Bakery,nonveg,66
+44.1,kg,Bakery,veg,133
+36.0,plates,Other,nonveg,31
+141.3,pieces,Produce,veg,47
+11.3,boxes,Other,veg,93
+60.0,pieces,Produce,veg,19
+91.7,pieces,Produce,veg,22
+24.0,kg,Other,veg,55
+116.9,plates,Produce,veg,140
+12.8,kg,Other,nonveg,28
+142.4,pieces,Produce,veg,37
+2.8,kg,Other,nonveg,6
+45.9,liters,Produce,veg,88
+249.4,pieces,Bakery,veg,99
+36.7,kg,Other,nonveg,93
+5.6,kg,Bakery,veg,15
+30.7,kg,Other,veg,70
+31.9,liters,Bakery,veg,66
+16.6,pieces,Packaged Food,veg,18
+47.9,kg,Packaged Food,veg,192
+29.8,boxes,Dairy,nonveg,227
+23.6,boxes,Cooked Meal,nonveg,169
+11.2,kg,Cooked Meal,veg,24
+17.4,kg,Cooked Meal,veg,38
+40.4,plates,Dairy,veg,57
+192.9,pieces,Packaged Food,nonveg,143
+45.9,kg,Dairy,nonveg,169
+19.0,liters,Dairy,nonveg,71
+30.6,kg,Cooked Meal,nonveg,66
+20.8,plates,Cooked Meal,nonveg,19
+25.3,boxes,Dairy,nonveg,227
+10.5,liters,Dairy,nonveg,40
+15.7,plates,Bakery,veg,18
+104.6,pieces,Packaged Food,nonveg,104
+158.3,pieces,Cooked Meal,veg,83
+31.9,kg,Packaged Food,nonveg,105
+13.6,boxes,Packaged Food,nonveg,134
+6.7,kg,Other,veg,19
+43.9,kg,Cooked Meal,veg,126
+57.4,plates,Cooked Meal,veg,50
+20.9,boxes,Cooked Meal,veg,184
+34.5,pieces,Cooked Meal,veg,18
+246.1,pieces,Produce,veg,79
+68.3,plates,Dairy,veg,100
+19.0,boxes,Packaged Food,veg,252
+226.2,pieces,Dairy,nonveg,113
+39.2,kg,Dairy,nonveg,147
+145.7,pieces,Produce,veg,40
+3.3,liters,Dairy,nonveg,11
+20.8,pieces,Bakery,veg,8
+25.9,kg,Other,veg,57
+121.5,plates,Dairy,veg,155
+17.9,boxes,Cooked Meal,nonveg,142
+23.2,boxes,Bakery,nonveg,191
+31.4,pieces,Other,nonveg,14
+162.9,pieces,Dairy,veg,75
+17.2,liters,Dairy,veg,75
+232.8,pieces,Cooked Meal,veg,130
+6.3,liters,Bakery,veg,11
+234.0,pieces,Bakery,veg,81
+29.7,boxes,Cooked Meal,veg,253
+32.4,liters,Packaged Food,nonveg,79
+22.7,boxes,Cooked Meal,veg,188
+80.4,plates,Produce,veg,83
+270.1,pieces,Dairy,veg,159
+42.0,liters,Dairy,veg,206
+29.5,boxes,Produce,veg,201
+54.5,plates,Other,nonveg,39
+16.8,boxes,Bakery,nonveg,144
+3.7,boxes,Bakery,nonveg,29
+27.8,boxes,Produce,veg,185
+40.6,kg,Bakery,nonveg,133
+29.0,liters,Bakery,nonveg,60
+234.3,pieces,Cooked Meal,veg,111
+189.7,pieces,Dairy,nonveg,91
+24.4,kg,Cooked Meal,veg,61
+27.3,boxes,Dairy,nonveg,229
+6.7,kg,Packaged Food,veg,26
+33.7,kg,Bakery,veg,100
+19.1,pieces,Dairy,veg,11
+91.4,pieces,Dairy,veg,48
+3.7,kg,Dairy,nonveg,13
+131.4,plates,Other,veg,137
+2.5,boxes,Packaged Food,veg,27
+22.6,kg,Produce,nonveg,47
+52.9,pieces,Dairy,nonveg,24
+20.5,boxes,Bakery,nonveg,165
+2.0,liters,Dairy,nonveg,8
+27.8,boxes,Packaged Food,nonveg,249
+116.5,plates,Bakery,veg,138
+14.7,plates,Dairy,nonveg,20
+23.2,liters,Bakery,veg,49
+64.8,pieces,Produce,veg,20
+27.7,kg,Packaged Food,nonveg,91
+30.5,kg,Bakery,veg,92
+7.3,boxes,Cooked Meal,veg,47
+143.0,pieces,Other,veg,79
+59.5,plates,Dairy,nonveg,75
+49.5,plates,Other,nonveg,51
+43.4,kg,Dairy,veg,169
+292.1,pieces,Packaged Food,veg,309
+9.3,boxes,Cooked Meal,nonveg,77
+122.5,pieces,Other,veg,64
+45.3,kg,Dairy,veg,180
+4.7,liters,Dairy,veg,16
+44.8,kg,Bakery,nonveg,100
+26.5,liters,Cooked Meal,nonveg,47
+37.0,liters,Packaged Food,nonveg,82
+23.0,boxes,Dairy,veg,209
+132.1,plates,Bakery,veg,165
+13.6,pieces,Other,nonveg,6
+144.2,plates,Bakery,nonveg,192
+63.4,plates,Dairy,nonveg,78
+21.3,boxes,Cooked Meal,nonveg,120
+25.9,boxes,Bakery,veg,301
+116.0,pieces,Cooked Meal,veg,64
+31.8,liters,Bakery,veg,72
+49.6,liters,Produce,veg,92
+281.4,pieces,Cooked Meal,nonveg,109
+173.0,pieces,Other,nonveg,78
+17.0,kg,Bakery,veg,44
+17.2,boxes,Packaged Food,veg,170
+23.7,boxes,Bakery,nonveg,210
+44.7,liters,Cooked Meal,veg,109
+101.0,plates,Cooked Meal,veg,104
+15.7,boxes,Dairy,nonveg,128
+195.9,pieces,Dairy,veg,104
+189.7,pieces,Produce,nonveg,36
+11.4,boxes,Cooked Meal,veg,90
+22.9,liters,Bakery,nonveg,36
+46.8,liters,Other,veg,119
+235.2,pieces,Packaged Food,nonveg,226
+18.7,boxes,Other,nonveg,136
+25.9,boxes,Packaged Food,veg,275
+16.7,liters,Packaged Food,veg,47
+49.7,liters,Dairy,nonveg,214
+62.8,plates,Produce,veg,65
+3.5,liters,Bakery,nonveg,6
+22.1,boxes,Produce,nonveg,147
+1.9,boxes,Produce,veg,14
+42.8,liters,Dairy,nonveg,168
+280.6,pieces,Produce,veg,74
+41.5,liters,Bakery,nonveg,84
+193.3,pieces,Dairy,veg,93
+119.5,plates,Dairy,nonveg,136
+17.7,liters,Bakery,veg,36
+162.2,pieces,Other,veg,85
+27.5,boxes,Produce,veg,185
+47.4,liters,Dairy,nonveg,185
+27.0,liters,Bakery,nonveg,51
+86.2,plates,Bakery,veg,92
+12.6,pieces,Packaged Food,nonveg,11
+7.3,plates,Packaged Food,nonveg,9
+24.9,boxes,Produce,nonveg,162
+132.3,plates,Other,veg,143
+139.3,plates,Dairy,veg,200
+10.8,liters,Packaged Food,veg,35
+84.4,pieces,Other,veg,52
+3.6,boxes,Bakery,nonveg,35
+10.5,boxes,Produce,veg,72
+31.3,liters,Other,nonveg,76
+22.1,boxes,Bakery,nonveg,214
+2.3,boxes,Packaged Food,nonveg,25
+210.7,pieces,Dairy,veg,102
+9.7,kg,Cooked Meal,nonveg,21
+105.9,plates,Packaged Food,veg,135
+1.3,liters,Dairy,nonveg,5
+42.4,liters,Produce,veg,65
+26.8,boxes,Produce,veg,180
+65.3,plates,Produce,nonveg,74
+119.9,plates,Dairy,nonveg,134
+45.5,plates,Packaged Food,nonveg,65
+295.0,pieces,Other,nonveg,129
+221.2,pieces,Other,nonveg,92
+30.8,plates,Produce,nonveg,30
+290.5,pieces,Bakery,veg,122
+46.7,kg,Produce,veg,82
+8.6,kg,Cooked Meal,veg,20
+48.0,liters,Dairy,veg,223
+43.6,kg,Bakery,nonveg,122
+16.1,boxes,Produce,veg,113
+20.8,boxes,Other,veg,163
+60.9,plates,Dairy,nonveg,80
+15.5,boxes,Dairy,veg,170
+27.1,boxes,Bakery,nonveg,176
+49.2,pieces,Packaged Food,nonveg,50
+15.1,liters,Dairy,nonveg,56
+121.8,plates,Cooked Meal,veg,130
+42.0,liters,Cooked Meal,veg,105
+44.1,liters,Bakery,veg,79
+19.5,kg,Dairy,veg,68
+21.4,kg,Cooked Meal,veg,49
+1.7,boxes,Dairy,nonveg,14
+16.0,boxes,Bakery,nonveg,164
+142.0,pieces,Bakery,nonveg,56
+147.7,pieces,Produce,nonveg,34
+187.5,pieces,Cooked Meal,veg,109
+27.1,boxes,Dairy,nonveg,183
+36.2,kg,Packaged Food,veg,119
+2.8,boxes,Cooked Meal,veg,22
+47.9,liters,Other,veg,111
+55.9,pieces,Cooked Meal,veg,24
+44.2,liters,Dairy,nonveg,151
+20.1,boxes,Cooked Meal,nonveg,126
+39.3,plates,Bakery,veg,43
+212.2,pieces,Bakery,nonveg,79
+28.2,liters,Dairy,nonveg,120
+41.0,pieces,Produce,nonveg,11
+5.7,boxes,Other,veg,40
+282.9,pieces,Packaged Food,veg,259
+93.6,plates,Produce,nonveg,83
+44.8,kg,Other,veg,91
+6.4,boxes,Dairy,veg,49
+5.7,boxes,Bakery,veg,52
+21.8,boxes,Dairy,nonveg,209
+5.0,boxes,Bakery,nonveg,59
+8.3,liters,Dairy,veg,30
+39.9,kg,Other,veg,83
+30.1,plates,Cooked Meal,veg,34
+183.9,pieces,Cooked Meal,nonveg,104
+55.7,plates,Dairy,nonveg,60
+59.5,pieces,Bakery,nonveg,20
+1.8,kg,Cooked Meal,veg,4
+32.6,liters,Produce,nonveg,66
+140.8,pieces,Dairy,veg,55
+43.7,liters,Produce,veg,66
+32.5,kg,Cooked Meal,veg,72
+101.3,plates,Bakery,nonveg,119
+13.2,plates,Produce,veg,14
+49.6,kg,Bakery,nonveg,159
+8.1,kg,Packaged Food,veg,31
+6.7,liters,Cooked Meal,veg,17
+14.5,boxes,Other,nonveg,128
+6.6,liters,Other,veg,17
+20.7,kg,Cooked Meal,nonveg,39
+6.9,liters,Bakery,veg,13
+280.1,pieces,Other,nonveg,112
+10.4,plates,Bakery,veg,11
+33.4,liters,Produce,veg,63
+49.1,pieces,Packaged Food,veg,50
+238.0,pieces,Cooked Meal,veg,110
+27.7,boxes,Other,veg,244
+30.2,liters,Produce,veg,53
+42.2,liters,Packaged Food,veg,107
+252.7,pieces,Produce,nonveg,63
+36.1,kg,Cooked Meal,veg,81
+124.4,plates,Other,nonveg,109
+6.8,liters,Cooked Meal,nonveg,13
+83.2,plates,Produce,nonveg,86
+67.5,pieces,Packaged Food,veg,87
+7.9,liters,Other,veg,21
+7.0,kg,Packaged Food,nonveg,20
+2.7,boxes,Dairy,nonveg,20
+69.3,plates,Dairy,veg,89
+64.8,plates,Packaged Food,veg,92
+27.0,liters,Bakery,nonveg,52
+249.2,pieces,Produce,veg,73
+35.4,kg,Other,veg,90
+31.2,kg,Cooked Meal,veg,76
+11.7,boxes,Packaged Food,nonveg,140
+179.1,pieces,Cooked Meal,nonveg,77
+130.4,pieces,Produce,nonveg,38
+42.0,kg,Packaged Food,veg,159
+1.1,boxes,Produce,nonveg,7
+10.6,plates,Cooked Meal,veg,11
+3.9,boxes,Cooked Meal,veg,26
+13.3,boxes,Cooked Meal,veg,119
+79.9,plates,Cooked Meal,veg,85
+30.0,kg,Packaged Food,veg,88
+35.5,kg,Other,nonveg,75
+3.9,boxes,Cooked Meal,nonveg,29
+10.6,boxes,Cooked Meal,veg,103
+150.1,pieces,Produce,nonveg,40
+4.3,boxes,Bakery,veg,43
+27.1,liters,Packaged Food,nonveg,76
+130.6,pieces,Dairy,nonveg,55
+28.5,liters,Cooked Meal,veg,65
+30.7,liters,Produce,veg,69
+267.4,pieces,Packaged Food,nonveg,291
+18.3,liters,Packaged Food,veg,59
+1.9,boxes,Bakery,veg,20
+13.3,boxes,Produce,nonveg,82
+40.0,kg,Dairy,veg,176
+20.3,boxes,Cooked Meal,nonveg,159
+165.4,pieces,Cooked Meal,veg,88
+29.1,kg,Dairy,nonveg,100
+39.4,kg,Other,nonveg,105
+243.3,pieces,Cooked Meal,veg,114
+19.5,boxes,Packaged Food,nonveg,262
+23.7,kg,Other,veg,56
+4.0,boxes,Packaged Food,nonveg,45
+11.6,kg,Packaged Food,veg,40
+41.0,plates,Packaged Food,nonveg,59
+59.0,pieces,Bakery,nonveg,21
+89.5,plates,Other,nonveg,57
+122.0,plates,Cooked Meal,nonveg,135
+42.6,liters,Produce,nonveg,86
+11.5,liters,Other,veg,32
+5.4,liters,Dairy,veg,23
+31.9,liters,Cooked Meal,veg,67
+19.1,kg,Dairy,veg,70
+135.6,plates,Other,nonveg,130
+46.5,kg,Packaged Food,nonveg,145
+48.6,kg,Dairy,veg,239
+28.3,plates,Produce,veg,25
+16.1,boxes,Cooked Meal,nonveg,118
+68.5,plates,Packaged Food,nonveg,86
+13.9,plates,Cooked Meal,veg,16
+14.7,boxes,Packaged Food,nonveg,166
+19.6,liters,Cooked Meal,veg,49
+26.0,kg,Cooked Meal,veg,70
+119.8,plates,Packaged Food,nonveg,148
+36.6,liters,Dairy,nonveg,125
+101.4,plates,Packaged Food,nonveg,145
+13.7,liters,Produce,veg,28
+21.3,plates,Cooked Meal,nonveg,17
+24.9,liters,Dairy,veg,106
+53.3,plates,Other,veg,51
+31.4,plates,Packaged Food,nonveg,45
+35.4,kg,Other,nonveg,79
+109.5,plates,Packaged Food,veg,191
+8.7,boxes,Dairy,veg,73
+28.5,kg,Packaged Food,veg,99
+5.6,boxes,Cooked Meal,veg,51
+16.7,boxes,Bakery,nonveg,144
+14.0,kg,Bakery,veg,36
+132.6,plates,Bakery,veg,176
+146.5,pieces,Bakery,nonveg,65
+66.6,plates,Packaged Food,veg,99
+15.7,kg,Dairy,veg,66
+33.4,liters,Dairy,nonveg,150
+36.0,liters,Dairy,veg,153
+10.9,boxes,Other,veg,92
+16.7,kg,Bakery,nonveg,41
+18.7,kg,Other,veg,46
+47.7,pieces,Produce,nonveg,14
+35.2,kg,Produce,veg,73
+20.7,kg,Produce,nonveg,45
+35.3,kg,Packaged Food,veg,133
+84.3,plates,Dairy,veg,130
+3.8,boxes,Packaged Food,veg,43
+13.0,boxes,Cooked Meal,nonveg,99
+276.1,pieces,Bakery,veg,105
+16.8,boxes,Other,nonveg,110
+106.0,plates,Bakery,nonveg,105
+28.0,boxes,Dairy,nonveg,214
+178.6,pieces,Cooked Meal,nonveg,88
+7.1,kg,Produce,veg,16
+49.7,kg,Bakery,nonveg,154
+11.2,boxes,Bakery,veg,117
+41.8,kg,Other,veg,107
+35.0,plates,Dairy,nonveg,40
+26.2,liters,Other,veg,73
+181.9,pieces,Produce,nonveg,50
+122.0,plates,Cooked Meal,nonveg,113
+30.9,plates,Produce,nonveg,28
+132.2,pieces,Packaged Food,nonveg,135
+39.7,kg,Packaged Food,nonveg,128
+260.2,pieces,Produce,nonveg,73
+16.6,boxes,Packaged Food,nonveg,207
+61.7,pieces,Produce,veg,19
+66.6,plates,Dairy,veg,87
+23.7,boxes,Produce,nonveg,185
+17.5,liters,Other,nonveg,40
+72.5,pieces,Other,nonveg,35
+8.9,kg,Cooked Meal,nonveg,21
+22.0,liters,Produce,nonveg,43
+12.6,boxes,Packaged Food,nonveg,141
+4.9,kg,Packaged Food,veg,14
+19.3,kg,Produce,veg,44
+149.0,plates,Produce,nonveg,134
+20.7,plates,Cooked Meal,veg,15
+6.7,boxes,Packaged Food,veg,66
+22.8,liters,Cooked Meal,nonveg,46
+29.8,boxes,Produce,veg,205
+193.4,pieces,Packaged Food,veg,182
+11.0,liters,Cooked Meal,veg,25
+17.8,liters,Produce,nonveg,27
+14.4,boxes,Other,veg,124
+49.2,liters,Produce,nonveg,97
+25.7,kg,Bakery,veg,75
+18.9,pieces,Produce,nonveg,5
+197.4,pieces,Produce,nonveg,48
+42.4,liters,Produce,veg,90
+15.0,liters,Bakery,nonveg,28
+103.9,plates,Dairy,nonveg,104
+27.1,boxes,Cooked Meal,nonveg,169
+33.6,liters,Packaged Food,veg,90
+1.9,boxes,Bakery,veg,16
+104.3,plates,Dairy,nonveg,138
+40.3,kg,Produce,veg,62
+144.5,plates,Cooked Meal,nonveg,139
+19.9,liters,Other,veg,46
+83.7,pieces,Bakery,veg,36
+15.6,pieces,Bakery,veg,6
+36.0,kg,Other,veg,80
+127.2,plates,Produce,veg,138
+13.5,liters,Produce,nonveg,31
+20.8,pieces,Produce,nonveg,5
+34.7,liters,Dairy,nonveg,107
+7.3,plates,Packaged Food,veg,11
+194.9,pieces,Other,veg,108
+131.7,plates,Dairy,nonveg,174
+29.7,boxes,Other,nonveg,174
+49.4,plates,Other,veg,48
+25.3,boxes,Produce,veg,209
+19.5,liters,Other,nonveg,51
+35.8,kg,Cooked Meal,nonveg,85
+90.9,plates,Bakery,veg,115
+39.5,plates,Bakery,veg,48
+9.4,plates,Cooked Meal,nonveg,8
+147.6,plates,Bakery,veg,152
+29.3,plates,Cooked Meal,veg,29
+1.7,kg,Cooked Meal,veg,4
+23.6,kg,Cooked Meal,nonveg,68
+45.6,kg,Packaged Food,veg,133
+108.7,plates,Other,nonveg,99
+41.1,kg,Cooked Meal,veg,107
+275.6,pieces,Cooked Meal,veg,153
+139.6,plates,Bakery,nonveg,139
+119.0,plates,Cooked Meal,veg,102
+6.7,boxes,Produce,veg,43
+15.3,pieces,Dairy,veg,9
+41.9,kg,Bakery,nonveg,108
+286.0,pieces,Produce,nonveg,82
+25.2,boxes,Dairy,nonveg,182
+29.2,boxes,Cooked Meal,nonveg,263
+8.8,boxes,Other,nonveg,80
+260.9,pieces,Packaged Food,nonveg,268
+49.4,kg,Other,veg,140
+31.1,kg,Produce,nonveg,57
+17.4,pieces,Dairy,nonveg,7
+21.6,liters,Dairy,nonveg,73
+116.5,pieces,Bakery,veg,45
+30.7,liters,Packaged Food,nonveg,72
+83.3,plates,Cooked Meal,veg,72
+73.5,plates,Other,veg,70
+11.6,boxes,Other,veg,83
+253.9,pieces,Bakery,nonveg,104
+1.7,boxes,Dairy,nonveg,13
+44.2,liters,Cooked Meal,nonveg,86
+12.0,boxes,Produce,veg,83
+140.5,plates,Cooked Meal,nonveg,135
+10.7,boxes,Cooked Meal,nonveg,69
+9.4,boxes,Packaged Food,nonveg,133
+15.5,liters,Cooked Meal,nonveg,26
+45.6,plates,Cooked Meal,veg,40
+141.3,plates,Dairy,nonveg,157
+53.5,plates,Bakery,nonveg,61
+3.6,kg,Dairy,nonveg,12
+275.3,pieces,Produce,nonveg,47
+103.7,plates,Cooked Meal,nonveg,80
+235.0,pieces,Cooked Meal,nonveg,126
+7.2,kg,Bakery,veg,24
+141.0,plates,Cooked Meal,veg,127
+11.8,kg,Cooked Meal,nonveg,26
+9.4,kg,Produce,nonveg,15
+297.6,pieces,Bakery,nonveg,80
+6.5,pieces,Dairy,nonveg,3
+5.7,boxes,Cooked Meal,veg,45
+4.6,liters,Cooked Meal,nonveg,11
+147.0,pieces,Dairy,veg,81
+6.7,kg,Dairy,veg,28
+42.3,kg,Produce,veg,88
+10.1,kg,Other,nonveg,22
+12.1,kg,Cooked Meal,nonveg,30
+33.9,plates,Cooked Meal,veg,27
+24.5,boxes,Cooked Meal,veg,166
+27.3,boxes,Cooked Meal,nonveg,181
+28.5,kg,Other,nonveg,62
+21.2,liters,Other,nonveg,53
+130.5,plates,Dairy,veg,160
+231.0,pieces,Produce,nonveg,66
+48.9,kg,Packaged Food,veg,176
+45.2,kg,Dairy,veg,199
+13.6,kg,Other,veg,38
+37.2,plates,Dairy,nonveg,46
+44.7,kg,Bakery,nonveg,130
+80.5,pieces,Other,nonveg,46
+129.1,pieces,Bakery,veg,63
+22.6,boxes,Dairy,veg,221
+49.5,liters,Packaged Food,veg,186
+84.3,plates,Dairy,veg,109
+117.9,pieces,Bakery,veg,59
+16.7,boxes,Produce,veg,113
+136.4,pieces,Produce,veg,37
+14.0,boxes,Cooked Meal,nonveg,106
+112.4,pieces,Produce,veg,32
+27.5,kg,Bakery,veg,87
+17.5,pieces,Produce,veg,5
+134.0,plates,Cooked Meal,veg,124
+23.7,kg,Cooked Meal,veg,52
+17.1,kg,Dairy,veg,68
+2.6,boxes,Produce,nonveg,16
+27.7,boxes,Cooked Meal,nonveg,190
+206.4,pieces,Produce,veg,78
+22.4,liters,Other,veg,56
+131.4,plates,Produce,nonveg,129
+16.7,kg,Packaged Food,veg,60
+45.4,liters,Produce,veg,80
+68.8,plates,Other,nonveg,74
+134.2,pieces,Dairy,veg,82
+25.5,boxes,Cooked Meal,veg,217
+140.0,plates,Packaged Food,veg,201
+33.7,kg,Produce,veg,57
+49.1,kg,Cooked Meal,veg,118
+65.0,pieces,Bakery,veg,31
+14.6,kg,Dairy,veg,60
+15.7,boxes,Bakery,veg,160
+26.2,pieces,Other,veg,12
+44.1,liters,Cooked Meal,nonveg,103
+18.0,liters,Dairy,nonveg,66
+26.2,plates,Other,nonveg,18
+2.0,boxes,Produce,veg,12
+20.5,kg,Dairy,veg,88
+15.7,plates,Packaged Food,veg,21
+49.8,kg,Produce,veg,108
+216.4,pieces,Dairy,veg,127
+176.4,pieces,Dairy,nonveg,77
+1.1,liters,Produce,veg,2
+7.4,pieces,Bakery,nonveg,3
+26.5,pieces,Bakery,veg,11
+10.0,liters,Produce,nonveg,20
+6.3,boxes,Cooked Meal,nonveg,50
+39.7,liters,Dairy,veg,163
+25.6,pieces,Produce,veg,8
+11.3,boxes,Cooked Meal,veg,88
+79.0,plates,Cooked Meal,nonveg,73
+20.2,kg,Cooked Meal,nonveg,50
+14.8,liters,Bakery,veg,26
+100.4,pieces,Packaged Food,nonveg,67
+9.4,liters,Dairy,veg,37
+3.3,liters,Produce,nonveg,5
+24.1,boxes,Bakery,veg,253
+27.9,pieces,Produce,veg,8
+21.2,boxes,Packaged Food,veg,301
+42.3,kg,Cooked Meal,nonveg,115
+31.2,plates,Bakery,veg,27
+14.8,plates,Cooked Meal,veg,17
+36.4,kg,Dairy,nonveg,126
+25.7,kg,Packaged Food,veg,77
+53.2,plates,Bakery,nonveg,48
+105.1,plates,Produce,nonveg,91
+19.7,liters,Packaged Food,veg,48
+27.2,liters,Produce,nonveg,49
+14.7,plates,Other,veg,17
+135.4,plates,Bakery,nonveg,146
+288.6,pieces,Dairy,nonveg,131
+29.4,plates,Cooked Meal,veg,30
+3.6,liters,Packaged Food,veg,9
+7.6,liters,Dairy,veg,29
+5.3,kg,Bakery,nonveg,14
+46.3,liters,Other,veg,156
+21.7,kg,Dairy,veg,96
+34.0,liters,Dairy,veg,132
+2.8,kg,Other,veg,7
+42.8,liters,Other,veg,111
+11.4,boxes,Bakery,nonveg,122
+36.2,liters,Cooked Meal,nonveg,68
+21.5,liters,Cooked Meal,veg,52
+34.4,liters,Packaged Food,veg,95
+280.8,pieces,Cooked Meal,veg,123
+93.6,plates,Packaged Food,veg,147
+34.5,liters,Bakery,veg,54
+14.6,boxes,Cooked Meal,veg,82
+129.8,plates,Packaged Food,veg,216
+47.3,liters,Dairy,veg,221
+253.4,pieces,Cooked Meal,veg,125
+61.8,plates,Cooked Meal,nonveg,44
+121.2,plates,Bakery,veg,148
+19.0,kg,Packaged Food,veg,70
+253.2,pieces,Dairy,nonveg,129
+21.3,boxes,Cooked Meal,veg,158
+18.7,kg,Bakery,nonveg,59
+135.1,pieces,Produce,veg,43
+20.9,boxes,Packaged Food,veg,235
+54.8,plates,Bakery,nonveg,58
+29.3,plates,Produce,nonveg,29
+44.2,liters,Packaged Food,nonveg,148
+48.5,kg,Cooked Meal,nonveg,111
+47.1,liters,Other,nonveg,131
+203.7,pieces,Dairy,nonveg,105
+47.5,kg,Dairy,nonveg,190
+112.3,plates,Dairy,veg,155
+199.1,pieces,Bakery,veg,77
+7.4,boxes,Dairy,nonveg,49
+292.4,pieces,Bakery,nonveg,99
+112.6,pieces,Bakery,veg,45
+4.8,kg,Bakery,veg,16
+124.7,pieces,Other,nonveg,50
+27.6,boxes,Produce,nonveg,202
+102.6,pieces,Dairy,nonveg,40
+284.4,pieces,Other,nonveg,137
+19.2,liters,Produce,nonveg,27
+28.9,boxes,Packaged Food,nonveg,332
+27.3,boxes,Cooked Meal,veg,230
+163.0,pieces,Produce,veg,52
+139.2,plates,Cooked Meal,nonveg,160
+123.1,plates,Produce,veg,110
+10.4,boxes,Bakery,veg,119
+58.6,pieces,Packaged Food,nonveg,51
+43.6,kg,Bakery,nonveg,119
+43.5,plates,Other,veg,47
+3.6,kg,Packaged Food,nonveg,11
+40.9,plates,Dairy,veg,49
+9.7,boxes,Bakery,veg,93
+28.8,kg,Other,nonveg,72
+4.0,boxes,Bakery,veg,49
+76.9,plates,Cooked Meal,veg,66
+46.9,pieces,Dairy,veg,25
+27.6,boxes,Dairy,veg,268
+51.1,pieces,Dairy,nonveg,19
+44.6,liters,Produce,nonveg,102
+8.7,boxes,Dairy,nonveg,64
+25.4,kg,Packaged Food,veg,69
+34.9,liters,Other,veg,79
+45.3,liters,Other,veg,120
+17.7,boxes,Packaged Food,veg,194
+1.2,liters,Bakery,nonveg,2
+46.3,kg,Produce,veg,85
+1.7,boxes,Bakery,veg,16
+15.7,pieces,Produce,veg,5
+4.2,liters,Other,veg,10
+200.5,pieces,Bakery,nonveg,78
+37.9,plates,Cooked Meal,nonveg,34
+38.4,kg,Dairy,veg,128
+27.3,boxes,Cooked Meal,veg,212
+19.5,kg,Bakery,veg,52
+27.3,boxes,Dairy,veg,284
+88.5,plates,Cooked Meal,veg,80
+217.1,pieces,Bakery,veg,78
+273.3,pieces,Dairy,veg,142
+21.3,boxes,Other,veg,180
+5.2,plates,Bakery,veg,6
+12.0,liters,Other,nonveg,30
+3.5,boxes,Bakery,nonveg,32
+28.0,kg,Packaged Food,veg,101
+20.1,kg,Packaged Food,veg,49
+19.7,liters,Dairy,veg,79
+7.1,kg,Cooked Meal,nonveg,15
+35.6,liters,Dairy,veg,152
+16.5,boxes,Packaged Food,nonveg,181
+227.4,pieces,Bakery,nonveg,94
+49.0,liters,Bakery,veg,131
+46.1,liters,Bakery,veg,85
+38.0,kg,Dairy,veg,136
+109.0,plates,Produce,veg,152
+37.0,liters,Other,veg,90
+35.6,plates,Bakery,nonveg,41
+12.9,kg,Other,nonveg,35
+42.9,liters,Packaged Food,veg,112
+44.4,plates,Cooked Meal,veg,42
+24.8,liters,Cooked Meal,veg,48
+38.8,liters,Produce,nonveg,67
+39.0,kg,Cooked Meal,veg,89
+15.8,boxes,Bakery,veg,154
+12.2,boxes,Dairy,nonveg,113
+18.3,pieces,Produce,nonveg,5
+5.2,kg,Bakery,nonveg,16
+27.9,pieces,Other,veg,14
+1.5,boxes,Produce,nonveg,8
+30.0,kg,Other,nonveg,71
+24.3,boxes,Dairy,nonveg,222
+24.5,boxes,Cooked Meal,veg,210
+31.5,kg,Bakery,veg,95
+4.9,boxes,Other,veg,38
+37.8,liters,Cooked Meal,veg,78
+72.1,plates,Packaged Food,nonveg,87
+36.3,plates,Cooked Meal,nonveg,32
+26.9,boxes,Bakery,nonveg,254
+32.9,liters,Bakery,nonveg,73
+48.0,kg,Other,nonveg,99
+99.1,plates,Dairy,nonveg,84
+253.0,pieces,Packaged Food,veg,319
+34.4,plates,Other,nonveg,28
+17.1,kg,Dairy,nonveg,70
+31.3,plates,Other,nonveg,37
+8.8,liters,Cooked Meal,veg,18
+243.2,pieces,Cooked Meal,nonveg,105
+240.9,pieces,Produce,nonveg,66
+21.6,kg,Cooked Meal,veg,55
+9.9,boxes,Dairy,nonveg,66
+17.6,boxes,Packaged Food,nonveg,183
+26.7,boxes,Dairy,nonveg,262
+208.7,pieces,Packaged Food,nonveg,215
+14.7,pieces,Cooked Meal,nonveg,6
+10.8,liters,Other,nonveg,26
+17.4,boxes,Dairy,nonveg,111
+44.3,kg,Packaged Food,veg,123
+172.9,pieces,Dairy,veg,80
+217.1,pieces,Cooked Meal,nonveg,107
+37.5,pieces,Bakery,nonveg,12
+15.7,liters,Other,nonveg,35
+275.3,pieces,Cooked Meal,nonveg,113
+107.9,pieces,Dairy,nonveg,44
