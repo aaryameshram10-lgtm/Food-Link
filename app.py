@@ -69,17 +69,18 @@ DB_PORT = int(os.environ.get('DB_PORT', '3306'))
 DB_USER = os.environ.get('DB_USER', 'root')
 DB_PASS = os.environ.get('DB_PASSWORD', 'root')
 DB_NAME = os.environ.get('DB_NAME', 'foodlink_db')
-
+#
 
 EMAIL_PATTERN = re.compile(r'^[^\s@]+@[^\s@]+\.[^\s@]+$')
 PHONE_PATTERN = re.compile(r'^[0-9]{10}$')
 
 
 def get_db():
-    """Open a fresh database connection for the current request."""
     return mysql.connector.connect(
-        host=DB_HOST, port=DB_PORT, user=DB_USER, password=DB_PASS, database=DB_NAME
+        host=DB_HOST, port=DB_PORT, user=DB_USER, password=DB_PASS, database=DB_NAME,
+        ssl_disabled=False
     )
+
 
 
 # ---------------------------------------------------------
