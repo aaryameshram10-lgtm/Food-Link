@@ -62,11 +62,14 @@ def predict_people_fed(quantity, unit, category, food_type):
 # Update DB_USER / DB_PASS to match what you use in
 # MySQL Workbench to connect to your local server.
 # ---------------------------------------------------------
-DB_HOST = '127.0.0.1'
-DB_PORT = 3306
-DB_USER = 'root'      # <-- change to your MySQL username
-DB_PASS = 'root'           # <-- change to your MySQL password
-DB_NAME = 'foodlink_db'
+import os
+
+DB_HOST = os.environ.get('DB_HOST', '127.0.0.1')
+DB_PORT = int(os.environ.get('DB_PORT', '3306'))
+DB_USER = os.environ.get('DB_USER', 'root')
+DB_PASS = os.environ.get('DB_PASSWORD', 'root')
+DB_NAME = os.environ.get('DB_NAME', 'foodlink_db')
+
 
 EMAIL_PATTERN = re.compile(r'^[^\s@]+@[^\s@]+\.[^\s@]+$')
 PHONE_PATTERN = re.compile(r'^[0-9]{10}$')
